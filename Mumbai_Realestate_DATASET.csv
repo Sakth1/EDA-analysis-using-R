@@ -1,0 +1,1001 @@
+S.NO,PROP_ID,SIZE_OF_PROPERTY,NO_OF_BEDROOMS,LOCALITY,PROPERTY_TYPE,TOTAL_FLOOR,AGE_OF_BUILDING,PRICE_IN_LAKHS,CONSTRUCTION_STATUS,LATITUDE,LOGITUDE
+1,X69306824,7405,4,Lak And Hanware The Residency Tower,Farm House,1,26,48.5,Ready to move,19.0525298,73.0735111
+2,R70915032,1089,3,Radheya Sai Enclave Building No 2,Residential Land,7,14,45,Under Construction,19.0525298,73.0735111
+3,G70916930,390,3,Romell Serene,Residential Apartment,7,32,67,Under Construction,19.0525298,73.0735111
+4,H70484400,1250,2,Soundlines Codename Urban Rainforest,Residential Apartment,17,8,45,Under Construction,19.0525298,73.0735111
+5,A70484128,1250,4,Origin Oriana,Residential Apartment,30,45,50,Under Construction,19.0525298,73.0735111
+6,C70484644,1125,3,Bhoomi Simana Wing A Phase 1,Residential Apartment,6,3,170,Under Construction,19.0525298,73.0735111
+7,D70816344,850,3,Agami Estancia,Residential Apartment,3,20,125,Under Construction,19.0257731,73.05918478
+8,R70486606,3000,1,Sanghvi Infenia,Independent House/Villa,3,38,105,Under Construction,19.0525298,73.0735111
+9,D70485228,1600,2,Shubh Shreeji Heights,Residential Apartment,22,11,105,Ready to move,19.0525298,73.0735111
+10,K70629508,1000,3,Aplite Greenstone Heritage,Residential Apartment,6,29,150,Under Construction,19.0525298,73.0735111
+11,I70038378,600,3,A Plus Golden Corner,Residential Apartment,4,6,87,Under Construction,19.0525298,73.0735111
+12,E69809784,1070,2,Unimont Imperia,Residential Apartment,22,17,90,Under Construction,19.0525298,73.0735111
+13,G70699774,500,3,Aayush Gulmohar,Residential Apartment,4,42,110,Under Construction,19.0525298,73.0735111
+14,C70363976,325,2,Roswalt Zaiden,Studio Apartment,5,5,105,Under Construction,19.0525298,73.0735111
+15,N70806490,792,3,Angel Falcon Emerald Dunlin,Residential Apartment,15,23,97,Under Construction,19.0525298,73.0735111
+16,L70835204,850,2,Proviso Sai Proviso Icon Greater Kharghar Roadpali,Independent House/Villa,2,49,105,Under Construction,19.04310935,73.07430033
+17,P70247048,1000,4,Godrej Urban Park,Independent/Builder Floor,4,2,80,Under Construction,19.0525298,73.0735111
+18,A70699844,1040,3,Aurum Q Island R4 AND R5,Residential Apartment,32,36,85,Ready to move,19.0525298,73.0735111
+19,H68802070,1100,3,Raymond Raymond Realty TenX Habitat,Residential Apartment,15,10,93,Under Construction,19.0525298,73.0735111
+20,G70916930,390,2,Asshna Seabliss,Residential Apartment,7,28,99,Under Construction,19.0525298,73.0735111
+21,H70484400,1250,4,Mayfair The View,Residential Apartment,17,16,80,Under Construction,19.0525298,73.0735111
+22,A70484128,1250,3,Shakti Shree Siddhivinayak II,Residential Apartment,30,31,90,Under Construction,19.0525298,73.0735111
+23,C70484644,1125,3,Vardhan Heights,Residential Apartment,6,7,42,Under Construction,19.0525298,73.0735111
+24,D70816344,850,1,Puraniks Unicorn Phase 1,Residential Apartment,3,41,280,Under Construction,19.0525298,73.0735111
+25,D70485228,1600,2,Pyramid Elements,Residential Apartment,22,19,400,Under Construction,19.0525298,73.0735111
+26,K70629508,1000,3,Tharwani Meghna Montana,Residential Apartment,6,35,160,Under Construction,19.0525298,73.0735111
+27,I70038378,600,3,Dev Drashti Empire Phase 1,Residential Apartment,4,12,170,Ready to move,19.0525298,73.0735111
+28,E69809784,1070,2,B G Shirke Monte Verita West Tower,Residential Apartment,22,27,95,Under Construction,19.0525298,73.0735111
+29,B70483706,1200,3,Jindal Avenue,Residential Apartment,8,4,95,Under Construction,19.0525298,73.0735111
+30,S56196230,250,2,Walekar Homes,Residential Apartment,3,47,75,Ready to move,19.0525298,73.0735111
+31,U70094458,955,3,Sri Garden Avenue K,Residential Apartment,40,9,85,Under Construction,19.0525298,73.0735111
+32,T70628438,680,2,Anant Residency,Independent/Builder Floor,5,25,130,Under Construction,19.0525298,73.0735111
+33,P70555718,1045,3,Ravechi Shreeji Divine,Residential Apartment,30,50,137,Under Construction,19.0525298,73.0735111
+34,H68899438,560,2,Shree ND Garden,Residential Apartment,7,15,80,Under Construction,19.0525298,73.0735111
+35,P70762284,1200,4,Neelkanth Auris,Serviced Apartments,20,33,105,Under Construction,19.0525298,73.0735111
+36,K70719948,1000,3,Shree Krupa Nandanvan Homes Building B,Residential Apartment,7,21,77,Under Construction,19.0525298,73.0735111
+37,V70483902,1350,3,Tajjodin Taj Regency,Residential Apartment,27,37,75,Under Construction,19.0525298,73.0735111
+38,N63929726,1500,2,Avant Heritage III,Residential Apartment,11,22,90,Under Construction,19.0525298,73.0735111
+39,G70699774,500,4,Kalpataru Kalpataru Elitus,Residential Apartment,4,48,93,Under Construction,19.0525298,73.0735111
+40,C70363976,325,3,VBHC 47 Rowland Park,Studio Apartment,5,13,60,Under Construction,19.0525298,73.0735111
+41,N70806490,792,3,Sunteck City First Impression,Residential Apartment,15,34,62,Under Construction,19.0525298,73.0735111
+42,P70247048,1000,1,Siddhivinayak Siddhivinayak Gaurav,Independent/Builder Floor,4,18,50,Under Construction,19.0525298,73.0735111
+43,H70040892,900,2,A M Balaji Heights,Residential Apartment,30,44,65,Under Construction,19.0525298,73.0735111
+44,M69723682,980,3,Sai Shrushti Vatika,Residential Apartment,7,1,52,Under Construction,19.0525298,73.0735111
+45,G67326910,450,3,Piramal S Class Homes,Residential Apartment,5,39,42,Under Construction,19.0525298,73.0735111
+46,Y69920480,1000,2,Rishabraj Vicinia,Residential Apartment,4,24,55,Under Construction,19.0525298,73.0735111
+47,V69940344,1000,3,Qualitas QN Greens Phase 1,Residential Apartment,5,46,55,Ready to move,19.0525298,73.0735111
+48,F69552404,690,2,Precious Group Precious Meadows,Residential Apartment,24,30,60,Under Construction,19.0525298,73.0735111
+49,I70717482,600,3,Today Imperia,Residential Apartment,4,40,55,Ready to move,19.0525298,73.0735111
+50,I70173262,1100,2,Lak And Hanware The Residency Tower,Residential Apartment,22,43,42,Ready to move,19.0525298,73.0735111
+51,S70714728,350,3,Radheya Sai Enclave Building No 2,Residential Apartment,5,26,165,Under Construction,19.0525298,73.0735111
+52,I70468870,350,2,Romell Serene,Residential Apartment,6,14,113.99999,Under Construction,19.0525298,73.0735111
+53,U70530756,300,2,Soundlines Codename Urban Rainforest,Residential Apartment,2,32,135,Under Construction,19.0525298,73.0735111
+54,O69908850,250,3,Origin Oriana,Residential Apartment,12,8,225,Under Construction,19.0525298,73.0735111
+55,S70500510,350,4,Bhoomi Simana Wing A Phase 1,Studio Apartment,4,45,400,Under Construction,19.0525298,73.0735111
+56,L69815530,250,3,Agami Estancia,Residential Apartment,8,3,57,Under Construction,19.0525298,73.0735111
+57,G70041454,900,2,Sanghvi Infenia,Residential Apartment,7,20,48,Under Construction,19.0525298,73.0735111
+58,P70371054,315,3,Shubh Shreeji Heights,Studio Apartment,4,38,45,Ready to move,19.0525298,73.0735111
+59,Q68916824,100,2,Aplite Greenstone Heritage,Residential Apartment,3,11,43,Under Construction,19.0525298,73.0735111
+60,S69952556,1350,2,A Plus Golden Corner,Residential Apartment,6,29,45,Under Construction,19.0525298,73.0735111
+61,C64810382,800,2,Unimont Imperia,Residential Apartment,11,6,53,Under Construction,19.0525298,73.0735111
+62,X70385464,850,3,Aayush Gulmohar,Residential Apartment,9,17,48.03,Under Construction,19.0525298,73.0735111
+63,U66274524,1127,2,Roswalt Zaiden,Residential Apartment,60,42,130,Under Construction,19.0525298,73.0735111
+64,Z69882176,300,2,Angel Falcon Emerald Dunlin,Residential Apartment,6,5,155,Under Construction,19.0525298,73.0735111
+65,S69894578,1000,2,Proviso Sai Proviso Icon Greater Kharghar Roadpali,Residential Apartment,6,23,130,Under Construction,19.0525298,73.0735111
+66,W69723620,760,2,Godrej Urban Park,Residential Apartment,30,49,85,Under Construction,19.0525298,73.0735111
+67,U70674714,545,2,Aurum Q Island R4 AND R5,Residential Apartment,7,2,94,Ready to move,19.0525298,73.0735111
+68,N69601482,350,2,Raymond Raymond Realty TenX Habitat,Residential Apartment,8,36,80,Under Construction,19.0525298,73.0735111
+69,D70949904,630,2,Asshna Seabliss,Residential Apartment,4,10,45,Under Construction,19.0525298,73.0735111
+70,U70887326,450,3,Mayfair The View,Residential Apartment,10,28,53,Under Construction,19.0525298,73.0735111
+71,B70782362,800,2,Shakti Shree Siddhivinayak II,Residential Apartment,30,16,60,Under Construction,19.0525298,73.0735111
+72,V70677306,400,3,Vardhan Heights,Residential Apartment,5,31,56,Under Construction,19.0525298,73.0735111
+73,M68978894,650,2,Puraniks Unicorn Phase 1,Residential Apartment,15,7,48.03,Under Construction,19.0525298,73.0735111
+74,T69377700,250,3,Pyramid Elements,Residential Apartment,6,41,175,Under Construction,19.0525298,73.0735111
+75,G63363306,2000,3,Tharwani Meghna Montana,Residential Apartment,2,19,120,Under Construction,19.0525298,73.0735111
+76,R54373876,1200,1,Dev Drashti Empire Phase 1,Residential Apartment,23,35,150,Ready to move,19.0525298,73.0735111
+77,D70085054,1400,2,B G Shirke Monte Verita West Tower,Residential Apartment,4,12,130,Under Construction,19.0525298,73.0735111
+78,F70049676,200,3,Jindal Avenue,Residential Apartment,6,27,166,Under Construction,19.0525298,73.0735111
+79,I70048278,1400,2,Walekar Homes,Residential Apartment,7,4,130,Ready to move,19.0525298,73.0735111
+80,O70746110,725,2,Sri Garden Avenue K,Residential Apartment,6,47,94,Under Construction,19.0525298,73.0735111
+81,D69548094,300,2,Anant Residency,Residential Apartment,20,9,166,Under Construction,19.0525298,73.0735111
+82,O70547242,870,2,Ravechi Shreeji Divine,Residential Apartment,9,25,130,Under Construction,19.0525298,73.0735111
+83,J70300658,800,2,Neelkanth Auris,Residential Apartment,6,50,94,Under Construction,19.0525298,73.0735111
+84,J69170678,680,3,Shree Krupa Nandanvan Homes Building B,Residential Apartment,10,15,80,Under Construction,19.0525298,73.0735111
+85,N69150128,780,2,Tajjodin Taj Regency,Residential Apartment,15,33,57,Under Construction,19.0525298,73.0735111
+86,A69091664,460,3,Avant Heritage III,Studio Apartment,8,21,55,Under Construction,19.0525298,73.0735111
+87,D70511376,1040,3,Kalpataru Kalpataru Elitus,Residential Apartment,31,37,60,Under Construction,19.0525298,73.0735111
+88,K70988370,850,3,VBHC 47 Rowland Park,Residential Apartment,7,22,56,Under Construction,19.0525298,73.0735111
+89,Y70376814,1000,3,Sunteck City First Impression,Residential Apartment,7,48,49,Under Construction,19.0525298,73.0735111
+90,O70430224,430,3,Siddhivinayak Siddhivinayak Gaurav,Residential Apartment,22,13,135,Under Construction,19.0525298,73.0735111
+91,J70356302,800,3,A M Balaji Heights,Residential Apartment,7,34,220,Under Construction,19.0525298,73.0735111
+92,S70127130,1000,2,Sai Shrushti Vatika,Residential Apartment,5,18,175,Under Construction,19.0525298,73.0735111
+93,E70027598,300,2,Piramal S Class Homes,Residential Apartment,7,44,178,Under Construction,19.0525298,73.0735111
+94,W70922504,850,3,Rishabraj Vicinia,Residential Apartment,5,1,140,Under Construction,19.0525298,73.0735111
+95,S70921382,565,2,Qualitas QN Greens Phase 1,Independent House/Villa,4,39,72,Ready to move,19.0525298,73.0735111
+96,W70856584,1700,3,Precious Group Precious Meadows,Residential Apartment,8,24,70,Under Construction,19.0525298,73.0735111
+97,G70559936,615,2,Tulip Empire,Residential Apartment,30,46,150,Under Construction,19.0525298,73.0735111
+98,Z66242918,700,3,Radheya Sai Enclave Building No 2,Residential Apartment,30,30,100,Under Construction,19.0525298,73.0735111
+99,Q70534166,528,2,Romell Serene,Residential Apartment,15,40,175,Under Construction,19.0525298,73.0735111
+100,B69202404,825,2,Origin Oriana,Residential Apartment,26,43,110,Under Construction,19.0525298,73.0735111
+101,G69898184,430,2,Radheya Sai Enclave Building No 2,Independent House/Villa,,25,130,Under Construction,19.0525298,73.0735111
+102,H48234425,350,2,Radheya Sai Enclave Building No 2,Residential Apartment,11,10,125,Under Construction,19.0525298,73.0735111
+103,T65813160,1200,2,Radheya Sai Enclave Building No 2,Residential Apartment,12,38,130,Under Construction,19.0525298,73.0735111
+104,F69603618,700,3,Radheya Sai Enclave Building No 2,Residential Apartment,4,5,150,Under Construction,19.0525298,73.0735111
+105,O59483584,900,3,Radheya Sai Enclave Building No 2,Residential Apartment,7,20,75,Under Construction,19.0525298,73.0735111
+106,I68687174,850,2,Romell Serene,Residential Apartment,11,42,95,Under Construction,19.0525298,73.0735111
+107,W61117474,750,3,Romell Serene,Residential Apartment,16,15,90,Under Construction,19.0525298,73.0735111
+108,H54654182,800,2,Romell Serene,Residential Apartment,3,7,62,Under Construction,19.0525298,73.0735111
+109,P68221146,900,3,Romell Serene,Residential Apartment,3,30,55,Under Construction,19.0257731,73.05918478
+110,C64187400,300,3,Romell Serene,Residential Apartment,11,3,50,Under Construction,19.0525298,73.0735111
+111,S68076972,1200,2,Ashapura Mokshit Majesta,Independent/Builder Floor,2,47,50,Under Construction,19.0525298,73.0735111
+112,M54333524,1000,2,Ashapura Mokshit Majesta,Residential Apartment,3,12,55,Under Construction,19.0525298,73.0735111
+113,M70824676,590,2,Ashapura Mokshit Majesta,Residential Apartment,7,29,42,Under Construction,19.0525298,73.0735111
+114,G60652370,780,3,Ashapura Mokshit Majesta,Residential Apartment,3,8,52,Under Construction,19.0525298,73.0735111
+115,G49195487,300,2,Ashapura Mokshit Majesta,Residential Apartment,3,36,42,Under Construction,19.0525298,73.0735111
+116,K70579532,950,2,Ashapura Mokshit Majesta,Residential Apartment,42,19,65,Under Construction,19.0525298,73.0735111
+117,V70578044,950,2,Ashapura Mokshit Majesta,Residential Apartment,13,2,60,Under Construction,19.0525298,73.0735111
+118,H40524699,300,3,Ashapura Mokshit Majesta,Residential Apartment,7,45,50,Under Construction,19.0525298,73.0735111
+119,W53327694,400,2,Origin Oriana,Residential Apartment,20,23,55,Under Construction,19.0525298,73.0735111
+120,G69191242,1002,3,Origin Oriana,Residential Apartment,18,11,42,Under Construction,19.0525298,73.0735111
+121,T49289371,300,3,Origin Oriana,Residential Apartment,7,41,55,Under Construction,19.0525298,73.0735111
+122,L70304766,550,3,Origin Oriana,Residential Apartment,7,6,43,Under Construction,19.0525298,73.0735111
+123,C69298020,958,3,Origin Oriana,Residential Apartment,18,17,155,Under Construction,19.0525298,73.0735111
+124,R70865792,1050,3,Origin Oriana,Residential Apartment,11,48,165,Under Construction,19.0525298,73.0735111
+125,M70865674,1050,4,Origin Oriana,Residential Apartment,11,26,113.99999,Under Construction,19.0525298,73.0735111
+126,C70865440,1755,3,Bhoomi Simana Wing A Phase 1,Residential Apartment,12,4,120,Under Construction,19.0525298,73.0735111
+127,H70865380,1755,2,Bhoomi Simana Wing A Phase 1,Residential Apartment,12,33,135,Under Construction,19.0525298,73.0735111
+128,T70865198,1755,3,Agami Estancia,Residential Apartment,12,14,160,Under Construction,19.0525298,73.0735111
+129,P70865120,1755,3,Agami Estancia,Residential Apartment,12,39,220,Under Construction,19.0525298,73.0735111
+130,O70389730,840,2,Sanghvi Infenia,Residential Apartment,15,22,110,Under Construction,19.0525298,73.0735111
+131,I70292134,870,2,Sanghvi Infenia,Residential Apartment,16,9,166,Under Construction,19.0525298,73.0735111
+132,I70240370,890,2,Shubh Shreeji Heights,Residential Apartment,14,50,140,Ready to move,19.0525298,73.0735111
+133,L70463202,850,2,Shubh Shreeji Heights,Residential Apartment,7,24,85,Ready to move,19.0525298,73.0735111
+134,W70292218,1220,2,Shubh Shreeji Heights,Residential Apartment,11,1,75,Ready to move,19.0525298,73.0735111
+135,A70326990,1755,2,Shubh Shreeji Heights,Residential Apartment,11,34,60,Ready to move,19.0525298,73.0735111
+136,C70395894,1755,2,Shubh Shreeji Heights,Residential Apartment,16,21,49,Ready to move,19.0525298,73.0735111
+137,F70461530,840,2,Shubh Shreeji Heights,Residential Apartment,15,16,42,Ready to move,19.0525298,73.0735111
+138,D70460898,820,3,Shubh Shreeji Heights,Residential Apartment,15,40,65,Ready to move,19.0525298,73.0735111
+139,D70439628,840,3,Shubh Shreeji Heights,Residential Apartment,7,18,45,Ready to move,19.0525298,73.0735111
+140,I70243740,1490,2,A Plus Golden Corner,Residential Apartment,16,28,60,Under Construction,19.0525298,73.0735111
+141,N70001798,800,2,A Plus Golden Corner,Residential Apartment,10,35,55,Under Construction,19.0525298,73.0735111
+142,T66626772,2100,3,A Plus Golden Corner,Residential Apartment,15,27,43,Under Construction,19.0525298,73.0735111
+143,A68941350,602,3,A Plus Golden Veda,Residential Apartment,22,13,55,Ready to move,19.0525298,73.0735111
+144,R70883988,665,3,A Plus Golden Veda,Residential Apartment,17,37,135,Ready to move,19.0525298,73.0735111
+145,S70865728,1050,3,A Plus Golden Veda,Residential Apartment,11,49,160,Ready to move,19.0525298,73.0735111
+146,F70865300,1755,3,A Plus Golden Veda,Residential Apartment,12,32,150,Ready to move,19.0525298,73.0735111
+147,J70463076,800,2,A Plus Golden Veda,Residential Apartment,7,46,110,Ready to move,19.0525298,73.0735111
+148,U70424922,2000,2,A Plus Golden Veda,Independent House/Villa,2,31,140,Ready to move,19.0525298,73.0735111
+149,Z70395980,1750,3,A Plus Golden Veda,Residential Apartment,16,44,69,Ready to move,19.0525298,73.0735111
+150,R70389848,840,3,A Plus Golden Veda,Residential Apartment,15,43,83,Ready to move,19.0525298,73.0735111
+151,T70327374,950,2,Unimont Imperia,Residential Apartment,10,2,90,Under Construction,19.0525298,73.0735111
+152,B70241642,890,2,Unimont Imperia,Residential Apartment,15,47,51,Under Construction,19.0525298,73.0735111
+153,F70598506,840,3,Unimont Imperia,Residential Apartment,7,11,52,Under Construction,19.0525298,73.0735111
+154,B70597916,1043,3,Unimont Imperia,Residential Apartment,15,37,42,Under Construction,19.0525298,73.0735111
+155,B70439822,1755,3,Unimont Imperia,Residential Apartment,15,25,55,Under Construction,19.0525298,73.0735111
+156,C70419796,687,2,Unimont Imperia,Residential Apartment,7,18,55,Under Construction,19.0525298,73.0735111
+157,W70243500,713,3,Unimont Imperia,Residential Apartment,16,41,65,Under Construction,19.0525298,73.0735111
+158,D70598370,870,3,Unimont Imperia,Residential Apartment,11,23,54,Under Construction,19.0525298,73.0735111
+159,W70340798,1250,2,Unimont Imperia,Residential Apartment,7,30,53,Under Construction,19.0525298,73.0735111
+160,Q70308318,590,2,Unimont Imperia,Residential Apartment,17,8,55,Under Construction,19.0525298,73.0735111
+161,O70461374,840,2,Unimont Imperia,Residential Apartment,7,13,50,Under Construction,19.0525298,73.0735111
+162,A70382516,650,1,Unimont Imperia,Residential Apartment,15,48,110,Under Construction,19.0525298,73.0735111
+163,H69858164,1000,2,Unimont Imperia,Residential Apartment,14,19,140,Under Construction,19.0525298,73.0735111
+164,U67099864,1314,2,Unimont Imperia,Residential Apartment,61,4,171,Under Construction,19.0525298,73.0735111
+165,B70868730,650,1,Unimont Imperia,Residential Apartment,11,45,160,Under Construction,19.0525298,73.0735111
+166,S70831674,795,1,Unimont Imperia,Residential Apartment,19,33,118,Under Construction,19.0525298,73.0735111
+167,B70597946,1043,2,Unimont Imperia,Residential Apartment,15,21,60,Under Construction,19.0525298,73.0735111
+168,C70460354,790,2,Unimont Imperia,Residential Apartment,15,9,48.5,Under Construction,19.0525298,73.0735111
+169,G70439286,870,3,Unimont Imperia,Residential Apartment,7,35,43,Under Construction,19.0525298,73.0735111
+170,B70320044,577,3,Unimont Imperia,Residential Apartment,17,27,45,Under Construction,19.0525298,73.0735111
+171,T70340146,950,2,Unimont Imperia,Residential Apartment,13,42,41,Under Construction,19.0525298,73.0735111
+172,W70053934,900,2,Unimont Imperia,Residential Apartment,4,16,50,Under Construction,19.0525298,73.0735111
+173,I70385438,750,3,Aayush Gulmohar,Residential Apartment,7,39,55,Under Construction,19.0525298,73.0735111
+174,K70389488,870,3,Aayush Gulmohar,Residential Apartment,15,1,45,Under Construction,19.0525298,73.0735111
+175,L70295552,750,2,Aayush Gulmohar,Residential Apartment,7,46,50,Under Construction,19.0525298,73.0735111
+176,Z68535248,300,2,Aayush Gulmohar,Residential Apartment,8,34,53,Under Construction,19.0525298,73.0735111
+177,S70200482,850,2,Aayush Gulmohar,Residential Apartment,15,26,190,Under Construction,19.0525298,73.0735111
+178,X70178128,700,3,Aayush Gulmohar,Residential Apartment,6,15,155,Under Construction,19.0525298,73.0735111
+179,B69951270,300,2,Aayush Gulmohar,Residential Apartment,7,43,135,Under Construction,19.0525298,73.0735111
+180,P69884742,650,3,Aayush Gulmohar,Residential Apartment,15,7,136,Under Construction,19.0525298,73.0735111
+181,F69701570,845,2,Aayush Gulmohar,Residential Apartment,19,32,155,Under Construction,19.0525298,73.0735111
+182,P69868938,1050,2,Aayush Gulmohar,Residential Apartment,5,20,165,Under Construction,19.0525298,73.0735111
+183,R69278044,1500,3,Aayush Gulmohar,Residential Apartment,26,36,86,Under Construction,19.0525298,73.0735111
+184,T69184400,645,2,Aayush Gulmohar,Residential Apartment,10,10,100,Under Construction,19.0525298,73.0735111
+185,T69315420,1500,2,Roswalt Zaiden,Residential Apartment,22,22,105,Under Construction,19.0525298,73.0735111
+186,J66275460,2400,3,Roswalt Zaiden,Residential Apartment,57,50,47,Under Construction,19.0525298,73.0735111
+187,Z66275458,1846,3,Angel Falcon Emerald Dunlin,Residential Apartment,57,28,62,Under Construction,19.0525298,73.0735111
+188,Y69316058,1350,2,Angel Falcon Emerald Dunlin,Residential Apartment,15,6,45,Under Construction,19.0525298,73.0735111
+189,A70727512,850,2,Angel Falcon Emerald Dunlin,Residential Apartment,9,40,69,Under Construction,19.0525298,73.0735111
+190,U69757640,600,2,Angel Falcon Emerald Dunlin,Residential Apartment,6,17,45,Under Construction,19.0525298,73.0735111
+191,V69168328,650,3,Angel Falcon Emerald Dunlin,Residential Apartment,15,29,100,Under Construction,19.0525298,73.0735111
+192,X71009486,875,3,Angel Falcon Emerald Dunlin,Residential Apartment,6,3,130,Under Construction,19.0525298,73.0735111
+193,H48587979,275,3,Angel Falcon Emerald Dunlin,Studio Apartment,3,24,110,Under Construction,19.04310935,73.07430033
+194,Y55119952,1000,3,Proviso SaiProviso County,Residential Apartment,10,12,130,Under Construction,19.0525298,73.0735111
+195,N66441302,1100,2,Proviso SaiProviso County,Residential Apartment,11,38,160,Under Construction,19.0525298,73.0735111
+196,G66927504,1100,3,Proviso SaiProviso County,Residential Apartment,8,31,105,Under Construction,19.0257731,73.05918478
+197,G70865534,1050,2,Proviso SaiProviso County,Residential Apartment,11,5,130,Under Construction,19.0525298,73.0735111
+198,A60725362,1250,2,Godrej Urban Park,Residential Apartment,18,49,95,Under Construction,19.0525298,73.0735111
+199,K62893658,1300,3,Godrej Urban Park,Residential Apartment,5,14,45,Under Construction,19.0525298,73.0735111
+200,X55463802,1200,3,Proviso Sai Proviso Icon Greater Kharghar Roadpali,Residential Apartment,11,4,110,Under Construction,19.0525298,73.0735111
+201,Z70559914,750,3,Proviso Sai Proviso Icon Greater Kharghar Roadpali,Residential Apartment,19,23,110,Under Construction,19.0525298,73.0735111
+202,C70462904,840,2,Proviso Sai Proviso Sapphire Greater Kharghar Roadpali,Residential Apartment,7,11,130,Under Construction,19.0525298,73.0735111
+203,E70440232,800,3,Proviso Sai Proviso Sapphire Greater Kharghar Roadpali,Residential Apartment,7,36,136,Under Construction,19.0525298,73.0735111
+204,K70421828,870,2,Proviso Sai Proviso Sapphire Greater Kharghar Roadpali,Residential Apartment,7,5,162,Under Construction,19.0525298,73.0735111
+205,D70241562,980,3,Proviso Sai Proviso Sapphire Greater Kharghar Roadpali,Residential Apartment,7,17,150,Under Construction,19.0525298,73.0735111
+206,G63103104,650,3,Proviso Sai Proviso Sapphire Greater Kharghar Roadpali,Residential Apartment,21,42,132,Under Construction,19.04310935,73.07430033
+207,E55471666,1800,2,Proviso Sai Proviso Sapphire Greater Kharghar Roadpali,Residential Apartment,21,9,75,Under Construction,19.0525298,73.0735111
+208,E66927474,1800,3,Aurum Q Island R4 AND R5,Residential Apartment,7,29,95,Ready to move,19.0525298,73.0735111
+209,I62911616,1400,3,Aurum Q Island R4 AND R5,Residential Apartment,8,48,150,Ready to move,19.0525298,73.0735111
+210,L70658270,6668,2,Aurum Q Island R4 AND R5,Residential Apartment,23,14,75,Ready to move,19.0257731,73.05918478
+211,E69963510,1550,3,Aurum Q Island R4 AND R5,Residential Apartment,10,31,130,Ready to move,19.0525298,73.0735111
+212,U70308026,1280,3,Aurum Q Island R4 AND R5,Residential Apartment,13,3,162,Ready to move,19.0525298,73.0735111
+213,M69117946,1000,3,Aurum Q Island R4 AND R5,Residential Apartment,6,20,110,Ready to move,19.0525298,73.0735111
+214,L67803816,680,2,Aurum Q Island R4 AND R5,Residential Apartment,7,44,116,Ready to move,19.0525298,73.0735111
+215,J67712918,300,2,Aurum Q Island R4 AND R5,Residential Apartment,15,7,56,Ready to move,19.0525298,73.0735111
+216,D69086160,1079,3,Raymond Raymond Realty TenX Habitat,Residential Apartment,13,39,80,Under Construction,19.0525298,73.0735111
+217,K69102990,1500,2,Raymond Raymond Realty TenX Habitat,Residential Apartment,19,26,95,Under Construction,19.1969686,73.07473537
+218,H69523096,481,3,Raymond Raymond Realty TenX Habitat,Residential Apartment,22,50,20.18,Under Construction,18.9359567,72.8273404
+219,Z69523090,240,2,Raymond Raymond Realty TenX Habitat,Residential Apartment,22,2,650,Under Construction,19.0148811,72.8279556
+220,F69088244,1080,2,Raymond Raymond Realty TenX Habitat,Residential Apartment,23,45,450,Under Construction,19.136394,72.8373817
+221,K69656168,861,2,Aurum Q Island R4 AND R5,Residential Apartment,5,19,165,Ready to move,19.2716301,73.23586553
+222,T47423083,350,3,Asshna Seabliss,Residential Apartment,6,33,23.75,Under Construction,19.1860219,72.8563181
+223,A64460246,231,3,Asshna Seabliss,Residential Apartment,6,10,195,Under Construction,19.4579689,72.8142138
+224,U69656158,1120,2,Shakti Shree Siddhivinayak II,Residential Apartment,7,28,20,Under Construction,19.4579689,72.8142138
+225,X69656164,924,3,Shakti Shree Siddhivinayak II,Residential Apartment,6,6,25,Under Construction,19.4579689,72.8142138
+226,L59113256,275,2,Shakti Shree Siddhivinayak II,Residential Apartment,7,38,22.5,Under Construction,19.4553059,72.811816
+227,Y46479383,550,3,Asshna Seabliss,Residential Apartment,10,13,27,Under Construction,19.1840129,72.8412155
+228,O69656156,742,3,Asshna Seabliss,Residential Apartment,6,47,220,Under Construction,19.2267228,72.8619328
+229,Q46422381,570,2,Asshna Seabliss,Residential Apartment,6,24,170,Under Construction,19.1860219,72.8563181
+230,I70120800,500,3,Asshna Seabliss,Residential Apartment,3,16,435,Under Construction,19.2816975,72.8560676
+231,Y67892456,582,2,Tharwani Meghna Montana,Residential Apartment,14,41,47.6,Under Construction,19.1633281,72.8411995
+232,Z70932552,1000,3,Tharwani Meghna Montana,Residential Apartment,18,8,181,Under Construction,19.1633281,72.8411995
+233,E70439194,980,3,Tharwani Meghna Montana,Residential Apartment,11,35,238,Under Construction,19.1633281,72.8411995
+234,S70380928,1000,3,Tharwani Meghna Montana,Residential Apartment,7,21,212,Under Construction,19.2267228,72.8619328
+235,K70849246,800,3,Tharwani Meghna Montana,Residential Apartment,7,4,86,Under Construction,19.1633281,72.8411995
+236,J70839390,1200,3,Tharwani Meghna Montana,Residential Apartment,9,37,365,Under Construction,19.1840129,72.8412155
+237,M70674958,1000,3,Tharwani Meghna Montana,Residential Apartment,15,49,237,Under Construction,19.1840129,72.8412155
+238,A70752190,925,3,Tharwani Meghna Montana,Residential Apartment,9,22,214,Under Construction,19.2083801,72.842227
+239,T68261656,690,3,Tharwani Meghna Montana,Residential Apartment,15,12,125,Under Construction,19.2083801,72.842227
+240,W69612054,400,3,Tharwani Meghna Montana,Residential Apartment,24,30,180,Under Construction,19.2083801,72.842227
+241,L70423822,1200,3,Tharwani Meghna Montana,Residential Apartment,10,46,132,Under Construction,19.2083801,72.842227
+242,Z70386692,1000,3,Tharwani Meghna Montana,Residential Apartment,13,25,353,Under Construction,19.2267228,72.8619328
+243,L48341217,300,2,Tharwani Meghna Montana,Residential Apartment,14,18,153,Under Construction,19.2083801,72.842227
+244,R70175100,1150,3,Tharwani Meghna Montana,Residential Apartment,12,32,250,Under Construction,19.2083801,72.842227
+245,E70174628,1100,3,Tharwani Meghna Montana,Residential Apartment,22,1,138.99999,Under Construction,19.2294561,72.8479905
+246,D69868644,950,3,Tharwani Meghna Montana,Residential Apartment,10,43,335,Under Construction,19.1633281,72.8411995
+247,X69845252,702,2,Tharwani Meghna Montana,Residential Apartment,12,27,145,Under Construction,19.2083801,72.842227
+248,W65269120,180,3,Tharwani Meghna Montana,Serviced Apartments,7,15,90,Under Construction,19.1633281,72.8411995
+249,M70912096,360,2,Tharwani Meghna Montana,Residential Apartment,5,40,135,Under Construction,19.1633281,72.8411995
+250,U70896090,325,2,Tharwani Meghna Montana,Residential Apartment,6,34,90,Under Construction,19.1860219,72.8563181
+251,P70895876,870,3,Tharwani Meghna Montana,Residential Apartment,5,50,216,Under Construction,19.2083801,72.842227
+252,D70827484,780,3,Tharwani Meghna Montana,Residential Apartment,5,19,137,Under Construction,19.2103809,72.8640837
+253,K70727070,270,3,Tharwani Meghna Montana,Residential Apartment,5,6,277.99999,Under Construction,19.1633281,72.8411995
+254,S70569012,850,2,Tharwani Meghna Montana,Residential Apartment,5,41,279,Under Construction,19.1633281,72.8411995
+255,E70568782,490,3,Tharwani Meghna Montana,Residential Apartment,5,27,816,Under Construction,19.2294561,72.8479905
+256,F70464142,450,2,Tharwani Meghna Montana,Residential Apartment,5,15,386,Under Construction,19.1158835,72.854202
+257,I68938146,620,4,Tharwani Meghna Montana,Residential Apartment,4,46,170,Under Construction,19.1633281,72.8411995
+258,Q70584500,740,2,Tharwani Meghna Montana,Residential Apartment,3,33,601,Under Construction,19.1692623,72.8552548
+259,A70568558,450,2,Dev Drashti Empire Phase 1,Residential Apartment,5,10,279,Ready to move,19.1692623,72.8552548
+260,Q68942116,620,3,Dev Drashti Empire Phase 1,Residential Apartment,5,35,315,Ready to move,19.1860219,72.8563181
+261,U70127070,350,3,Dev Drashti Empire Phase 1,Residential Apartment,5,24,375,Ready to move,19.1860219,72.8563181
+262,W46428407,700,3,Dev Drashti Empire Phase 1,Serviced Apartments,2,5,310,Ready to move,19.1860219,72.8563181
+263,W70365744,580,2,Dev Drashti Empire Phase 1,Residential Apartment,5,39,211,Ready to move,19.1860219,72.8563181
+264,D70283284,460,3,Dev Drashti Empire Phase 1,Residential Apartment,5,18,165,Ready to move,19.2267228,72.8619328
+265,B70283030,350,2,Dev Drashti Empire Phase 1,Residential Apartment,3,30,160,Ready to move,19.2267228,72.8619328
+266,V70358638,350,3,Dev Drashti Empire Phase 1,Residential Apartment,5,1,260,Ready to move,19.1840129,72.8412155
+267,M70282834,450,2,Dev Drashti Empire Phase 1,Residential Apartment,3,44,152,Ready to move,19.0525298,73.0735111
+268,F70283450,375,2,Dev Drashti Empire Phase 1,Residential Apartment,5,21,23,Ready to move,19.0269192,72.8759337
+269,P46487075,750,2,Dev Drashti Empire Phase 1,Serviced Apartments,2,8,330,Ready to move,19.0269192,72.8759337
+270,X70156116,650,2,Dev Drashti Empire Phase 1,Residential Apartment,3,36,290,Ready to move,18.9710996,73.0217484
+271,L70156652,350,3,B G Shirke Monte Verita West Tower,Residential Apartment,5,14,112,Under Construction,18.9710996,73.0217484
+272,D69916542,650,3,B G Shirke Monte Verita West Tower,Residential Apartment,4,47,90,Under Construction,18.9710996,73.0217484
+273,T69291080,1500,2,B G Shirke Monte Verita West Tower,Residential Apartment,47,22,85,Under Construction,19.0525298,73.0735111
+274,E70888864,1110,2,B G Shirke Monte Verita West Tower,Residential Apartment,14,2,90,Under Construction,19.1840129,72.8412155
+275,U70046786,750,3,B G Shirke Monte Verita West Tower,Residential Apartment,6,38,115,Under Construction,19.2494501,72.8596206
+276,Q68706886,560,3,B G Shirke Monte Verita West Tower,Residential Apartment,8,26,121,Under Construction,19.204159,72.8516821
+277,F70137540,700,2,B G Shirke Monte Verita West Tower,Residential Apartment,3,11,110,Under Construction,19.1648029,72.8500454
+278,L70310916,750,2,B G Shirke Monte Verita West Tower,Residential Apartment,7,45,270,Under Construction,19.1648029,72.8500454
+279,W70932750,980,3,Walekar Homes,Residential Apartment,7,29,216,Ready to move,19.1648029,72.8500454
+280,W70931874,1000,3,Walekar Homes,Residential Apartment,12,3,302,Ready to move,19.1648029,72.8500454
+281,E70884184,636,3,Walekar Homes,Residential Apartment,17,37,412,Ready to move,19.1648029,72.8500454
+282,K70378884,980,2,Walekar Homes,Residential Apartment,7,17,305,Ready to move,19.1692623,72.8552548
+283,A70865246,1755,1,Walekar Homes,Residential Apartment,12,48,367,Ready to move,19.1860219,72.8563181
+284,T70823970,1400,2,Walekar Homes,Residential Apartment,3,25,238,Ready to move,19.1860219,72.8563181
+285,J70440988,800,2,Walekar Homes,Residential Apartment,14,12,205,Ready to move,19.1462636,72.9339461
+286,D66718748,1200,3,Ravechi Shreeji Divine,Residential Apartment,18,42,55,Under Construction,19.2016957,72.8537297
+287,C70389974,1095,4,Ravechi Shreeji Divine,Residential Apartment,15,7,90,Under Construction,1.27757385,-77.72891341
+288,X68246404,710,3,Ravechi Shreeji Divine,Residential Apartment,15,31,325,Under Construction,19.1296868,72.9283701
+289,D70376782,980,2,Ravechi Shreeji Divine,Residential Apartment,7,20,85,Under Construction,19.1296868,72.9283701
+290,U70333032,1600,3,Ravechi Shreeji Divine,Residential Apartment,15,4,85,Under Construction,19.2267228,72.8619328
+291,T68245864,250,3,Ravechi Shreeji Divine,Residential Apartment,13,43,90,Under Construction,19.2103809,72.8640837
+292,V70458628,980,3,Neelkanth Auris,Residential Apartment,14,28,25,Under Construction,19.2446251,72.8479254
+293,E70531790,380,3,Neelkanth Auris,Residential Apartment,4,13,55,Under Construction,19.2483914,72.8525146
+294,V65901776,1200,3,Shree Krupa Nandanvan Homes Building B,Residential Apartment,13,49,80,Under Construction,19.1860219,72.8563181
+295,G70222680,1000,3,Shree Krupa Nandanvan Homes Building B,Residential Apartment,30,23,275,Under Construction,24.5729823,72.5204944
+296,W70386734,1050,4,Sri Garden Avenue K,Residential Apartment,7,40,115,Under Construction,19.0094817,72.8376614
+297,X70239984,1350,3,Sri Garden Avenue K,Residential Apartment,7,16,359,Under Construction,18.9963318,72.8308603
+298,X70123914,1200,1,Tajjodin Taj Regency,Residential Apartment,18,34,420,Under Construction,19.0094817,72.8376614
+299,B69951548,1000,1,Avant Heritage III,Residential Apartment,12,9,331,Under Construction,19.0116962,72.8180702
+300,Q69858352,950,2,Avant Heritage III,Residential Apartment,19,32,1060,Under Construction,18.9963318,72.8308603
+301,D70803050,700,3,Avant Heritage III,Residential Apartment,15,1,1014,Under Construction,19.1348994,72.8488199
+302,K70028534,1100,4,Reputed Builder Wild Wood Park 2,Residential Apartment,7,26,325,Ready to move,19.1348994,72.8488199
+303,L67804266,300,3,Squarefeet Sarvoday Square,Residential Apartment,15,47,185,Ready to move,19.1840129,72.8412155
+304,D68707090,560,3,Reputed Builder Wild Wood Park 2,Residential Apartment,6,8,110,Ready to move,19.0638507,72.8966448
+305,Y68707008,580,3,Reputed Builder Wild Wood Park 2,Residential Apartment,8,35,92,Ready to move,40.6979465,-73.9266436
+306,X70319554,749,2,Reputed Builder Wild Wood Park 2,Residential Apartment,11,15,501,Ready to move,19.0460658,72.8954733
+307,W70370838,750,2,Reputed Builder Wild Wood Park 2,Residential Apartment,4,42,330,Ready to move,-27.1884548,25.9648813
+308,W70370954,750,2,Reputed Builder Wild Wood Park 2,Residential Apartment,4,18,341,Ready to move,19.1722904,72.9564695
+309,K70168644,750,3,Reputed Builder Wild Wood Park 2,Residential Apartment,4,29,218,Ready to move,19.1722904,72.9564695
+310,O69278474,1100,3,Shreeji Darshan,Residential Apartment,22,4,218,Under Construction,19.1722904,72.9564695
+311,B69191390,1500,2,Abhinandan Cloris,Residential Apartment,22,38,212,Under Construction,19.41744235,72.81759746
+312,T71012564,1200,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,21,30,Ready to move,19.1159043,72.8931348
+313,H70998024,980,1,Reputed Builder Emerald Apartments,Residential Apartment,7,6,110,Ready to move,19.1159043,72.8931348
+314,Z70909120,800,2,Paradise Sai World Dreams Phase 1,Residential Apartment,7,33,179,Under Construction,19.1277203,72.9062795
+315,S69548574,900,2,Bhoomi New vandana CHSL,Residential Apartment,6,11,195,Ready to move,19.1692623,72.8552548
+316,C69707968,1100,2,Reputed Builder Wild Wood Park 2,Residential Apartment,6,48,160,Ready to move,19.0614859,73.1161392
+317,P70895380,500,2,Reputed Builder Wild Wood Park 2,Studio Apartment,6,22,64,Ready to move,19.1943294,72.9701779
+318,Q70895054,450,2,Reputed Builder Wild Wood Park 2,Studio Apartment,6,3,900,Ready to move,19.0943323,73.3008946
+319,B70859074,1200,2,Crystal Bharat Residency,Residential Apartment,9,41,21,Ready to move,19.0257731,73.05918478
+320,E70851314,900,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,16,36,Ready to move,18.9710996,73.0217484
+321,C69140976,1463,2,Avant Hillway,Residential Apartment,15,39,92,Under Construction,18.9710996,73.0217484
+322,Y69141548,1489,4,Fia Orion,Residential Apartment,15,9,92,Ready to move,18.9710996,73.0217484
+323,R70281040,1200,3,SS Balaji Krishna,Residential Apartment,2,44,53,Under Construction,19.0257731,73.05918478
+324,C70814994,862,3,Qualitas QN Heights,Residential Apartment,7,27,95,Ready to move,18.9710996,73.0217484
+325,K70865586,1050,4,Aditi Seven Heights,Residential Apartment,11,2,90,Under Construction,19.0164338,73.0806552
+326,Z70849470,600,2,Reputed Builder Wild Wood Park 2,Residential Apartment,5,37,110,Ready to move,19.0257731,73.05918478
+327,N70701756,510,2,SD Epsilon,Residential Apartment,5,20,72,Ready to move,18.9710996,73.0217484
+328,D70283334,1200,2,Reputed Builder Wild Wood Park 2,Residential Apartment,6,5,70,Ready to move,18.9710996,73.0217484
+329,E70127184,1100,2,Crystal Bharat Residency,Residential Apartment,4,36,110,Ready to move,18.9710996,73.0217484
+330,B70598176,840,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,13,45,Ready to move,18.9710996,73.0217484
+331,O69410408,1200,2,Lodha Codename Crown Jewel,Residential Apartment,15,49,168,Ready to move,18.9710996,73.0217484
+332,C70545564,1200,2,Zoeb Aayesha Palace,Residential Apartment,9,24,162.99999,Ready to move,18.9710996,73.0217484
+333,T70376284,1000,2,Reputed Builder Wild Wood Park 2,Residential Apartment,10,7,155,Ready to move,19.0614859,73.1161392
+334,P68170490,1215,2,Reputed Builder Wild Wood Park 2,Residential Apartment,32,30,49,Ready to move,19.26275015,72.96728418
+335,A68170488,805,2,Reputed Builder Wild Wood Park 2,Residential Apartment,32,14,34,Ready to move,19.074534,73.09063078
+336,X13758999,290,2,HDIL Galaxy Apartments,Studio Apartment,4,43,48,Ready to move,19.4533576,72.8057966
+337,F70001962,100,2,Reputed Builder Wild Wood Park 2,Residential Apartment,10,10,62,Ready to move,19.0626319,72.9011399
+338,R67358284,200,2,Shreeji Bhakti Park,Residential Apartment,5,31,337,Ready to move,40.6979465,-73.9266436
+339,U67768526,1300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,20,45,501,Ready to move,19.0626319,72.9011399
+340,B66613678,1000,2,Proviso Sai Proviso Icon Greater Kharghar Roadpali,Residential Apartment,16,28,107,Ready to move,19.0626319,72.9011399
+341,U65766972,1500,2,HG Sai Tulip,Residential Apartment,25,17,150,Ready to move,19.0626319,72.9011399
+342,B69119402,1100,2,Reputed Builder Wild Wood Park 2,Residential Apartment,8,50,185,Ready to move,19.0626319,72.9011399
+343,P66595406,1300,2,Proviso SaiProviso County,Residential Apartment,15,32,176,Ready to move,18.9710996,73.0217484
+344,G70283514,1010,2,Proviso SaiProviso County,Residential Apartment,12,19,70,Under Construction,18.9710996,73.0217484
+345,P70300234,750,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,46,110,Ready to move,18.9710996,73.0217484
+346,N70285818,300,3,Kalpataru Kalpataru Elitus,Residential Apartment,20,12,45,Under Construction,18.9710996,73.0217484
+347,Q70192786,1100,3,Kalpataru Kalpataru Elitus,Residential Apartment,10,25,168,Under Construction,18.9710996,73.0217484
+348,Y70192978,375,3,Kalpataru Kalpataru Elitus,Residential Apartment,9,34,162.99999,Under Construction,18.9710996,73.0217484
+349,V70192960,1200,2,Kalpataru Kalpataru Elitus,Residential Apartment,7,23,155,Under Construction,19.0164338,73.0806552
+350,O70175326,1000,2,Kalpataru Kalpataru Elitus,Residential Apartment,22,40,50,Under Construction,19.0164338,73.0806552
+351,D68956784,220,2,Kalpataru Kalpataru Elitus,Residential Apartment,7,1,40,Under Construction,19.0164338,73.0806552
+352,A68970092,650,3,Kalpataru Kalpataru Elitus,Residential Apartment,17,26,38,Under Construction,19.0164338,73.0806552
+353,G68970152,550,2,Kalpataru Kalpataru Elitus,Residential Apartment,16,47,44,Under Construction,19.0164338,73.0806552
+354,P41029779,280,2,Kalpataru Kalpataru Elitus,Studio Apartment,6,8,90,Under Construction,19.0164338,73.0806552
+355,L70570358,1200,2,Kalpataru Kalpataru Elitus,Residential Apartment,25,35,26,Under Construction,19.1201112,72.8510836
+356,F70382896,800,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,15,210,Ready to move,19.0614859,73.1161392
+357,C70213138,700,3,Kalpataru Vivant South Wing B,Residential Apartment,28,42,49,Under Construction,19.26275015,72.96728418
+358,L70470210,1470,2,Kalpataru Vivant South Wing B,Residential Apartment,12,18,34,Under Construction,19.074534,73.09063078
+359,J70382940,700,3,Kalpataru Vivant South Wing B,Residential Apartment,15,29,48,Under Construction,19.4533576,72.8057966
+360,H70212980,700,2,Kalpataru Vivant South Wing B,Residential Apartment,22,4,62,Under Construction,19.1348994,72.8488199
+361,O70212082,750,2,Kalpataru Vivant South Wing B,Residential Apartment,20,38,185,Under Construction,19.0626319,72.9011399
+362,K70251800,1240,2,Kalpataru Vivant South Wing B,Residential Apartment,20,21,196,Under Construction,19.0612128,72.8975909
+363,F70212350,850,3,Kalpataru Vivant South Wing B,Residential Apartment,35,6,186,Under Construction,19.0626319,72.9011399
+364,K70173760,3000,3,Kalpataru Vivant South Wing B,Residential Apartment,23,33,215,Under Construction,41.7238743,86.173541
+365,O70173920,350,2,Kalpataru Vivant South Wing B,Residential Apartment,15,11,110,Under Construction,19.1293944,72.8396919
+366,C70211904,900,2,Kalpataru Vivant South Wing B,Residential Apartment,7,48,137.99999,Under Construction,19.0475502,72.9051895
+367,W70174180,750,2,Kalpataru Vivant South Wing B,Residential Apartment,7,22,140,Under Construction,19.0525298,73.0735111
+368,F70174026,450,3,Kalpataru Vivant South Wing B,Residential Apartment,7,3,220,Under Construction,19.0525298,73.0735111
+369,M70173616,550,3,Kalpataru Vivant South Wing B,Residential Apartment,20,41,145,Under Construction,19.2103809,72.8640837
+370,W69960136,325,2,Kalpataru Vivant South Wing B,Residential Apartment,23,16,250,Under Construction,19.0525298,73.0735111
+371,S70951224,339,1,Kalpataru Vivant South Wing B,Residential Apartment,18,39,115,Under Construction,19.0614859,73.1161392
+372,F67072846,1020,2,Kalpataru Vivant South Wing B,Residential Apartment,5,9,40,Under Construction,19.0614859,73.1161392
+373,G70088818,900,3,Kalpataru Vivant South Wing B,Residential Apartment,4,44,25,Under Construction,19.0614859,73.1161392
+374,K70430070,595,2,Kalpataru Vivant South Wing B,Residential Apartment,4,27,23,Under Construction,18.9963318,72.8308603
+375,K70469274,1300,3,Kalpataru Vivant South Wing B,Residential Apartment,7,2,450,Under Construction,19.1943294,72.9701779
+376,T70054850,350,2,Kalpataru Vivant South Wing B,Residential Apartment,4,37,57,Under Construction,19.0945967,74.7313743
+377,A69118116,611,3,Kalpataru Vivant South Wing B,Residential Apartment,20,20,96,Under Construction,25.89592445,82.43771623
+378,C70917812,800,3,Kalpataru Vivant South Wing B,Residential Apartment,6,5,20.1,Under Construction,25.89592445,82.43771623
+379,X70987192,1200,2,Kalpataru Srishti Namaah,Residential Apartment,10,36,20.05,Under Construction,19.1436074,73.29553454
+380,H70909094,920,2,Kalpataru Srishti Namaah,Residential Apartment,7,13,25.48,Under Construction,19.1436074,73.29553454
+381,W70956884,1600,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,49,24.92,Ready to move,19.1436074,73.29553454
+382,U70858012,1200,2,Vrindavan Nagari,Residential Apartment,7,24,24.18,Ready to move,19.1989795,73.19611234
+383,H70843692,1200,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,7,24,Ready to move,19.0813635,72.853893
+384,P70843358,900,3,Reputed Builder Wild Wood Park 2,Residential Apartment,7,30,217,Ready to move,19.0945967,74.7313743
+385,V70836922,900,3,Reputed Builder Wild Wood Park 2,Residential Apartment,11,14,167,Ready to move,19.0945967,74.7313743
+386,G70815106,900,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,43,29,Ready to move,19.0945967,74.7313743
+387,K70382654,980,2,DB Ozone,Residential Apartment,9,10,115,Ready to move,19.0813635,72.853893
+388,Y70371244,1000,2,Lodha Aqua,Residential Apartment,22,31,217,Ready to move,19.0164338,73.0806552
+389,U70595846,840,3,Lodha Aqua,Residential Apartment,10,45,40,Ready to move,19.0164338,73.0806552
+390,A70589198,800,2,Man Opus,Residential Apartment,7,28,64,Ready to move,19.0164338,73.0806552
+391,D70462102,800,2,Man Opus,Residential Apartment,15,17,69,Ready to move,18.9710996,73.0217484
+392,N70069728,1080,3,Man Opus,Residential Apartment,14,50,75,Ready to move,19.0164338,73.0806552
+393,W69815348,1200,3,Man Opus,Residential Apartment,15,32,54.25,Ready to move,19.0164338,73.0806552
+394,P70216318,1000,2,Lodha Aqua,Residential Apartment,18,19,57,Ready to move,19.0164338,73.0806552
+395,H70387974,560,3,DB Ozone,Residential Apartment,15,46,71,Ready to move,19.0164338,73.0806552
+396,K70287324,650,3,DB Ozone,Residential Apartment,10,12,78,Ready to move,19.0164338,73.0806552
+397,Y70287060,650,2,Lodha Aqua,Residential Apartment,15,25,59,Ready to move,19.0164338,73.0806552
+398,X70337864,650,2,Man Opus,Residential Apartment,15,34,62,Ready to move,18.9710996,73.0217484
+399,I70232960,1000,3,Man Opus,Residential Apartment,8,23,55,Ready to move,19.0164338,73.0806552
+400,G65850644,249,2,Man Opus,Residential Apartment,5,40,50,Ready to move,19.0164338,73.0806552
+401,C68944912,1435,3,Man Opus,Residential Apartment,22,1,40.5,Ready to move,19.0164338,73.0806552
+402,N69963744,750,3,Man Opus,Residential Apartment,15,26,50.5,Ready to move,18.9710996,73.0217484
+403,U68706724,560,2,Lodha Mira Road Project 1,Independent House/Villa,1,47,74,Ready to move,19.0164338,73.0806552
+404,X68706830,550,2,Lodha Mira Road Project 1,Residential Apartment,7,8,68,Ready to move,19.0164338,73.0806552
+405,W68706944,460,2,Lodha Mira Road Project 1,Residential Apartment,5,35,30,Ready to move,19.0164338,73.0806552
+406,M69859480,1050,2,Lodha Mira Road Project 1,Residential Apartment,2,15,52,Ready to move,19.0164338,73.0806552
+407,F69345268,1300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,19,42,67,Ready to move,19.0164338,73.0806552
+408,E69629246,880,3,Man Opus,Residential Apartment,15,18,69,Ready to move,19.0164338,73.0806552
+409,E68832178,800,3,Lodha Mira Road Project 1,Residential Apartment,20,29,79.5,Ready to move,19.0164338,73.0806552
+410,Y68782424,850,2,Man Opus,Residential Apartment,20,4,54.6,Ready to move,19.0164338,73.0806552
+411,Y70386874,1050,2,Lodha Mira Road Project 1,Residential Apartment,15,38,49.5,Ready to move,19.0164338,73.0806552
+412,Z69250598,350,2,Lodha Mira Road Project 1,Residential Apartment,20,21,70,Ready to move,19.0164338,73.0806552
+413,F70594274,850,2,Lodha Mira Road Project 1,Residential Apartment,15,6,85.75,Ready to move,19.0164338,73.0806552
+414,S70462342,800,3,Lodha Mira Road Project 1,Residential Apartment,15,33,48,Ready to move,18.9710996,73.0217484
+415,Q70390296,1140,3,Lodha Mira Road Project 1,Residential Apartment,15,11,27,Ready to move,19.0164338,73.0806552
+416,H66360402,925,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,48,79,Ready to move,19.05756305,72.83147309
+417,G70364498,1095,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,22,360,Ready to move,-28.8166236,24.991639
+418,P67681820,1280,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,3,350,Ready to move,19.0583358,72.8302669
+419,L68736128,1200,3,Reputed Builder Wild Wood Park 2,Residential Apartment,10,41,300,Ready to move,19.0649126,72.8270326
+420,W70827040,900,3,Lakshadeep Residency,Residential Apartment,6,16,350,Ready to move,43.852004,-89.3196725
+421,V70733538,950,3,Reputed Builder Vrindavan Society,Residential Apartment,14,39,350,Ready to move,19.68086385,72.82537343
+422,G70675112,1050,2,Reputed Builder Wild Wood Park 2,Residential Apartment,4,9,21,Ready to move,19.0626319,72.9011399
+423,Y68660036,530,3,Shree Karma Heights,Residential Apartment,20,44,145,Under Construction,19.0525298,73.0735111
+424,U54334684,850,3,Man Opus,Residential Apartment,7,27,149,Ready to move,19.0257731,73.05918478
+425,H48446795,850,2,Lodha Aqua,Residential Apartment,3,2,27,Ready to move,19.0525298,73.0735111
+426,S49195289,900,2,Man Opus,Residential Apartment,3,37,38.5,Ready to move,19.0525298,73.0735111
+427,Y64363522,110,3,Lodha Mira Road Project 1,Residential Apartment,3,20,28.5,Ready to move,19.0525298,73.0735111
+428,G65629496,300,2,Lodha Mira Road Project 1,Residential Apartment,3,5,121,Ready to move,19.0525298,73.0735111
+429,L48127175,1250,2,Fia Orion,Residential Apartment,24,36,68,Ready to move,19.0525298,73.0735111
+430,X48446719,950,2,Adhiraj Gardens,Residential Apartment,11,13,60,Ready to move,19.0525298,73.0735111
+431,X70711192,922,2,Haware Nakshatra,Residential Apartment,33,49,68.5,Ready to move,19.0525298,73.0735111
+432,S70711188,569,2,Braj City,Residential Apartment,33,24,55,Under Construction,19.0257731,73.05918478
+433,O70711186,420,3,Alag Olive,Residential Apartment,33,7,92,Under Construction,19.0257731,73.05918478
+434,B70422166,665,2,Lodha Aqua,Residential Apartment,18,30,50,Ready to move,19.0525298,73.0735111
+435,C70422164,425,3,Lodha Aqua,Residential Apartment,18,14,175,Ready to move,19.0525298,73.0735111
+436,C69160468,2000,2,Man Opus,Residential Apartment,10,43,94,Ready to move,19.0525298,73.0735111
+437,W49678112,300,3,Man Opus,Residential Apartment,7,10,165,Ready to move,19.0525298,73.0735111
+438,B70824170,650,2,DB Ozone,Residential Apartment,3,31,37,Ready to move,19.0257731,73.05918478
+439,Z70595190,1095,3,DB Ozone,Residential Apartment,15,45,27,Ready to move,19.0525298,73.0735111
+440,N70594474,1095,3,DB Ozone,Residential Apartment,15,28,80,Ready to move,19.0525298,73.0735111
+441,M70461976,840,2,DB Ozone,Residential Apartment,15,17,220,Ready to move,19.0525298,73.0735111
+442,B70440552,800,2,Lodha Aqua,Residential Apartment,15,50,102,Ready to move,19.0525298,73.0735111
+443,V70860608,1110,2,Man Opus,Residential Apartment,13,32,31,Ready to move,19.0525298,73.0735111
+444,K70704510,1200,1,Lodha Mira Road Project 1,Residential Apartment,3,19,55,Ready to move,1.27757385,-77.72891341
+445,D70785454,1500,2,Man Opus,Residential Apartment,7,46,327.99999,Ready to move,1.27757385,-77.72891341
+446,J70589742,1200,2,Lodha Mira Road Project 1,Residential Apartment,22,12,327.99999,Ready to move,19.16002235,72.84406138
+447,K70666132,1000,3,Man Opus,Residential Apartment,8,25,110,Ready to move,19.1633281,72.8411995
+448,N70633236,1200,3,Man Opus,Residential Apartment,13,34,120,Ready to move,19.1633281,72.8411995
+449,A70362206,1000,3,Man Opus,Residential Apartment,12,23,170,Ready to move,19.43988455,72.8803834
+450,I42943121,670,2,Lodha Aqua,Residential Apartment,14,40,29,Ready to move,19.1576606,72.9411353
+451,W62617160,250,2,Haware Nakshatra,Serviced Apartments,3,1,361,Ready to move,25.89592445,82.43771623
+452,C68374996,1000,2,Braj City,Residential Apartment,7,26,36.82,Under Construction,19.1943294,72.9701779
+453,G70249984,180,2,Adhiraj Gardens,Residential Apartment,14,47,116,Ready to move,19.1943294,72.9701779
+454,U70288974,1000,2,Swastik Sarvoday Symphony,Residential Apartment,12,8,21,Under Construction,18.96558885,73.10288131
+455,Q70237876,1000,1,Arihant Advika,Residential Apartment,8,35,27,Under Construction,19.2716301,73.23586553
+456,I69504458,200,2,Arihant Clan Aalishan Phase 1,Residential Apartment,16,15,36,Under Construction,25.89592445,82.43771623
+457,O70665354,845,1,Sheth Auris Serenity Tower 2,Residential Apartment,19,42,28.65,Ready to move,19.1989795,73.19611234
+458,L70640106,900,2,K Merchant Sai Ekvira Sadan,Residential Apartment,4,18,23.74,Ready to move,19.2955429,72.8573593
+459,G70590856,1012,3,Reputed Builder Nutan Gangotri,Residential Apartment,18,29,52,Ready to move,19.1840129,72.8412155
+460,W69981292,300,2,Proviso Heights,Residential Apartment,30,4,140,Ready to move,19.1633281,72.8411995
+461,C69981008,300,3,Munish Glorious,Residential Apartment,42,38,625,Under Construction,19.1840129,72.8412155
+462,C69980756,635,2,Munish Glorious,Residential Apartment,42,21,265,Ready to move,19.1840129,72.8412155
+463,A69428226,702,3,Reputed Builder AVANTI APARTMENT,Residential Apartment,33,6,130,Ready to move,19.1840129,72.8412155
+464,P69428222,483,2,BREDCO Hill View Park,Residential Apartment,33,33,106,Ready to move,19.1070215,72.8275275
+465,D70298018,1150,2,Lodha Mira Road Project 1,Residential Apartment,18,11,110,Ready to move,19.1576606,72.9411353
+466,E70125742,1000,2,VBHC 47 Rowland Park,Residential Apartment,6,48,361,Under Construction,25.89592445,82.43771623
+467,X67096492,1926,3,VBHC 47 Rowland Park,Residential Apartment,60,22,36.82,Under Construction,19.2716301,73.23586553
+468,D67096488,1415,2,Konark Alpha Residency,Residential Apartment,60,3,36,Ready to move,25.89592445,82.43771623
+469,N70957886,1250,3,Reputed Builder Bharti Apartment,Residential Apartment,15,41,28.65,Ready to move,19.1943294,72.9701779
+470,G70289938,1000,2,GHP Powai Vihar Complex,Residential Apartment,10,16,116,Ready to move,19.1943294,72.9701779
+471,H70364028,1095,2,Gauri Excellency,Residential Apartment,15,39,21,Under Construction,18.96558885,73.10288131
+472,M68853292,480,3,Kohinoor Royal Residency Park,Residential Apartment,6,9,27,Ready to move,19.2716301,73.23586553
+473,J70236952,1350,2,Harsh Vista,Residential Apartment,14,44,39.85,Ready to move,20.787829,79.589794
+474,M62786336,1180,2,Krupa Valley Phase 1,Residential Apartment,15,27,22,Ready to move,20.787829,79.589794
+475,K68815590,1140,2,Jaishree Mayur Pankh,Residential Apartment,16,2,23,Under Construction,19.1436074,73.29553454
+476,L68941230,713,2,West Pioneer Metro Grande,Residential Apartment,16,37,26.5,Ready to move,19.2816975,72.8560676
+477,O68937916,980,3,Godrej Urban Park,Residential Apartment,21,20,46,Under Construction,19.1989795,73.19611234
+478,T40264579,1100,3,Godrej Urban Park,Residential Apartment,12,5,23.74,Under Construction,18.9710996,73.0217484
+479,K70300302,950,3,Godrej Urban Park,Residential Apartment,4,36,50,Under Construction,18.9710996,73.0217484
+480,T70291376,1350,2,Godrej Urban Park,Residential Apartment,8,13,72,Under Construction,19.0616565,72.8498111
+481,W70243628,713,2,Godrej Urban Park,Residential Apartment,16,49,720,Under Construction,18.8584694,72.9351104
+482,N70242636,1095,2,Godrej Urban Park,Residential Apartment,15,24,61,Under Construction,19.0336118,73.01813957
+483,T67398912,1200,3,Godrej Urban Park,Residential Apartment,7,7,185,Under Construction,19.0607337,73.0116775
+484,Z68310090,300,2,Godrej Urban Park,Residential Apartment,15,30,225,Under Construction,19.0607337,73.0116775
+485,K69960852,950,2,Godrej Urban Park,Residential Apartment,16,14,170,Under Construction,18.9710996,73.0217484
+486,M69960724,890,2,Godrej Urban Park,Residential Apartment,16,43,111,Under Construction,18.8584694,72.9351104
+487,O70110436,1250,2,Unimont Aurum,Residential Apartment,8,10,35,Under Construction,18.8584694,72.9351104
+488,Z68948856,1755,2,Unimont Aurum,Residential Apartment,7,31,52,Under Construction,18.9710996,73.0217484
+489,P68967882,280,3,Unimont Aurum,Residential Apartment,15,45,58,Under Construction,18.9710996,73.0217484
+490,J68933962,280,3,Unimont Aurum,Residential Apartment,19,28,62,Under Construction,18.9710996,73.0217484
+491,L68382666,200,3,Unimont Aurum,Residential Apartment,8,17,275,Under Construction,18.9710996,73.0217484
+492,R68539294,900,3,Unimont Aurum,Residential Apartment,16,50,155,Under Construction,18.9710996,73.0217484
+493,T68774942,900,2,Unimont Aurum,Residential Apartment,16,32,137.99999,Under Construction,18.8584694,72.9351104
+494,C68937446,1800,2,Unimont Aurum,Residential Apartment,19,19,34,Under Construction,18.8584694,72.9351104
+495,H69994348,300,3,Unimont Aurum,Residential Apartment,8,46,35,Under Construction,18.9710996,73.0217484
+496,J68829728,1100,2,Unimont Aurum,Residential Apartment,22,12,52,Under Construction,18.8584694,72.9351104
+497,R68934168,300,2,Unimont Aurum,Residential Apartment,8,25,24,Under Construction,18.9710996,73.0217484
+498,F30283427,1100,3,Unimont Aurum,Residential Apartment,16,34,49,Under Construction,18.9710996,73.0217484
+499,X67399122,1250,2,Unimont Aurum,Residential Apartment,7,23,111,Under Construction,18.8584694,72.9351104
+500,T68967482,850,2,Unimont Aurum,Residential Apartment,15,40,35,Under Construction,18.8584694,72.9351104
+501,C69961230,1190,3,Sunteck City First Impression,Residential Apartment,8,27,48.5,Ready to move,18.9710996,73.0217484
+502,J16740273,300,2,Sunteck City First Impression,Residential Apartment,7,8,45,Under Construction,18.9710996,73.0217484
+503,W69936296,1450,2,Sunteck City First Impression,Residential Apartment,8,14,67,Under Construction,18.9710996,73.0217484
+504,X21420411,800,3,Sunteck City First Impression,Residential Apartment,4,42,45,Under Construction,18.9710996,73.0217484
+505,X70527742,471,2,Sunteck City First Impression,Residential Apartment,12,3,50,Under Construction,18.9710996,73.0217484
+506,G70711794,690,2,Sunteck City First Impression,Residential Apartment,13,36,170,Under Construction,18.8584694,72.9351104
+507,Z70711440,1100,3,Siddhivinayak Pratima Gold,Residential Apartment,22,19,125,Under Construction,18.8584694,72.9351104
+508,R69014766,950,1,Siddhivinayak Pratima Gold,Residential Apartment,9,5,105,Under Construction,18.9710996,73.0217484
+509,R69015320,1100,2,Siddhivinayak Pratima Gold,Residential Apartment,14,23,105,Ready to move,18.8584694,72.9351104
+510,N69014496,950,3,Siddhivinayak Pratima Gold,Residential Apartment,9,49,150,Under Construction,18.9710996,73.0217484
+511,G70111518,980,3,Siddhivinayak Pratima Gold,Residential Apartment,16,11,87,Under Construction,18.9710996,73.0217484
+512,I68811246,600,3,Siddhivinayak Pratima Gold,Residential Apartment,6,32,90,Under Construction,18.9710996,73.0217484
+513,P70119112,950,2,Siddhivinayak Pratima Gold,Residential Apartment,16,7,110,Under Construction,18.9710996,73.0217484
+514,G68811770,900,2,Siddhivinayak Pratima Gold,Residential Apartment,8,45,105,Under Construction,19.0336118,73.01813957
+515,J68815122,910,2,Siddhivinayak Pratima Gold,Residential Apartment,16,20,97,Under Construction,18.9710996,73.0217484
+516,X70117410,980,2,Siddhivinayak Pratima Gold,Residential Apartment,16,38,105,Under Construction,18.8584694,72.9351104
+517,B70110488,980,2,Platinum Life,Residential Apartment,10,17,80,Under Construction,18.8584694,72.9351104
+518,Y68809152,856,2,Platinum Sai Sangam,Residential Apartment,27,9,85,Ready to move,18.9710996,73.0217484
+519,Q49482957,1400,2,Krishna Paradise,Residential Apartment,6,29,93,Under Construction,18.9710996,73.0217484
+520,M70117134,1050,2,Lodha Palava Lakeshore Greens,Residential Apartment,16,2,99,Under Construction,18.9710996,73.0217484
+521,C68969320,1300,2,Omkar Nest,Residential Apartment,11,46,80,Under Construction,18.9710996,73.0217484
+522,I70110798,980,2,Swagat Builders Damodar Park Apartment,Residential Apartment,16,26,90,Under Construction,18.9710996,73.0217484
+523,Z69530514,950,3,Lak And Hanware The Residency Tower,Residential Apartment,7,15,42,Under Construction,18.9710996,73.0217484
+524,E69015560,1100,2,B G Shirke Monte Verita North Annexe,Residential Apartment,14,40,280,Under Construction,18.9710996,73.0217484
+525,T68813966,1350,2,B G Shirke Monte Verita North Annexe,Residential Apartment,13,13,400,Under Construction,19.2882132,72.8955745
+526,F70117238,950,2,JP Atria,Residential Apartment,18,22,160,Under Construction,19.1070215,72.8275275
+527,P68812212,965,2,Ace Enclave,Residential Apartment,13,37,170,Ready to move,18.8584694,72.9351104
+528,P68811994,965,2,Rashmi Dhruvita Park,Residential Apartment,13,10,95,Under Construction,18.8584694,72.9351104
+529,A47350689,1150,2,Reputed Builder Jai Malhar,Residential Apartment,15,4,95,Under Construction,18.8584694,72.9351104
+530,B68809120,808,2,Swaraj Homes Rachael Apartment,Residential Apartment,27,28,75,Ready to move,18.8584694,72.9351104
+531,F68905854,1100,3,Sarvoday Onyx,Residential Apartment,11,47,85,Under Construction,18.96558885,73.10288131
+532,L65740254,748,3,Siddhivinayak Anaya,Residential Apartment,23,6,130,Under Construction,19.2882132,72.8955745
+533,B60487372,1130,3,Siddhivinayak Anaya,Residential Apartment,23,33,137,Under Construction,19.1070215,72.8275275
+534,V65494758,300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,35,18,80,Under Construction,18.8584694,72.9351104
+535,U60114090,904,3,Neelam Sanskar,Residential Apartment,23,43,105,Under Construction,18.8584694,72.9351104
+536,X10516185,500,2,Hiranandani Gardens Lake Castle,Residential Apartment,7,24,77,Under Construction,18.8584694,72.9351104
+537,G70799170,1200,2,Kalpsutra Vatsalya,Residential Apartment,22,16,75,Under Construction,18.8584694,72.9351104
+538,O69249422,1000,2,Green Earth Developers Green Heights,Residential Apartment,15,39,90,Under Construction,18.9710996,73.0217484
+539,J61807442,1535,2,KT Sai View,Residential Apartment,29,12,93,Under Construction,18.8584694,72.9351104
+540,L67030412,300,2,Maitri Amber Arcade,Residential Apartment,16,35,60,Under Construction,19.3625308,73.07847468
+541,C59552954,1340,3,Raj Pantheon,Residential Apartment,15,21,62,Under Construction,19.43988455,72.8803834
+542,O61807502,813,2,Regency Regency Heights,Residential Apartment,9,44,50,Under Construction,19.43988455,72.8803834
+543,T64109346,200,3,Today Shyam Aarohi Complex,Residential Apartment,6,1,65,Under Construction,19.3625308,73.07847468
+544,D60922932,300,3,Reputed Builder Suraj Complex,Residential Apartment,23,31,52,Under Construction,19.3625308,73.07847468
+545,P60044954,1200,3,Hiranandani Estate Hill Grange,Residential Apartment,21,25,42,Under Construction,19.2816975,72.8560676
+546,L61807338,200,2,Shanti Harmony,Independent House/Villa,4,48,55,Under Construction,19.3625308,73.07847468
+547,Z64254042,1100,2,Shanti Harmony,Residential Apartment,6,34,55,Ready to move,19.3625308,73.07847468
+548,M67030004,730,2,Shanti Harmony,Residential Apartment,16,30,60,Under Construction,19.3625308,73.07847468
+549,X59362818,1300,3,Kesar Gardens,Residential Apartment,15,41,55,Ready to move,19.3625308,73.07847468
+550,L66133828,300,3,Nirmal Lifestyle City Kalyan Spirit A,Residential Apartment,13,50,42,Ready to move,19.3625308,73.07847468
+551,V66133940,1249,2,Runwal The Orchard Residency,Residential Apartment,13,29,165,Under Construction,19.3625308,73.07847468
+552,A61307538,1914,2,Swastik Heights,Residential Apartment,22,5,113.99999,Under Construction,19.3625308,73.07847468
+553,Y17601327,330,2,Reliance Tilak Nagar Nisarg Co Op Hsg Soc Ltd,Residential Apartment,3,19,135,Under Construction,19.43988455,72.8803834
+554,N30183863,1100,2,Grace Grace Fluidic,Residential Apartment,9,12,225,Under Construction,19.43988455,72.8803834
+555,B17244960,300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,38,400,Under Construction,19.0162531,72.8522274
+556,F47965879,1300,2,Unique Aurum,Residential Apartment,16,8,57,Under Construction,19.2494501,72.8596206
+557,U30219061,1100,2,Squarefeet Sarvoday Square,Residential Apartment,14,47,48,Under Construction,19.0859539,72.9082381
+558,J64390790,1800,2,Reputed Builder Kanti Nagar,Residential Apartment,6,22,45,Ready to move,19.0859539,72.9082381
+559,K69158528,1250,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,33,43,Under Construction,19.0116962,72.8180702
+560,T70238674,920,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,2,45,Under Construction,18.9721871,72.8043338
+561,U40389245,1220,2,Cosmos Springs Angel,Residential Apartment,16,41,53,Under Construction,19.0269192,72.8759337
+562,A40218579,1600,2,Krishna Paradise,Residential Apartment,7,14,48.03,Under Construction,19.0269192,72.8759337
+563,J9558363,1000,3,Grace Iconic Wing A B,Residential Apartment,7,46,130,Under Construction,19.0269192,72.8759337
+564,K65571036,150,2,Puraniks Rumah Bali,Independent/Builder Floor,1,24,155,Under Construction,19.0269192,72.8759337
+565,J65554146,300,2,Puraniks Rumah Bali,Residential Apartment,15,3,130,Under Construction,19.0269192,72.8759337
+566,X65567700,1250,2,Puraniks Rumah Bali,Residential Apartment,15,39,85,Under Construction,19.2083801,72.842227
+567,A65506314,300,2,Puraniks Rumah Bali,Residential Apartment,1,16,94,Ready to move,19.1158835,72.854202
+568,Z59552726,1500,2,Puraniks Rumah Bali,Residential Apartment,14,31,80,Under Construction,19.1692623,72.8552548
+569,H60045370,300,3,Puraniks Rumah Bali,Residential Apartment,21,9,45,Under Construction,19.1860219,72.8563181
+570,L65506776,1400,3,Tulsi Nisarg,Residential Apartment,35,45,53,Under Construction,19.0116962,72.8180702
+571,N66560458,1250,2,Grace Iconic Wing A B,Residential Apartment,13,25,60,Under Construction,19.1158835,72.854202
+572,L59360628,1550,3,Rashmi Garden,Residential Apartment,35,17,56,Under Construction,19.4409122,73.3065183
+573,D70441430,840,3,Puraniks Unicorn Phase 1,Residential Apartment,15,36,48.03,Under Construction,19.1943294,72.9701779
+574,X69249054,1000,3,Prayag Meadows Phase 1,Residential Apartment,14,6,175,Under Construction,51.6335851,0.0097947
+575,P70423536,1200,2,Tulsi Sonata,Residential Apartment,10,20,120,Under Construction,19.1943294,72.9701779
+576,U59553288,1230,3,Reputed Builder Shree Krishna Darshan,Residential Apartment,12,37,150,Ready to move,19.1943294,72.9701779
+577,O60486206,1400,3,K Raheja Eastate,Residential Apartment,23,13,130,Under Construction,19.1943294,72.9701779
+578,M40456287,1300,3,Khatri Grande,Residential Apartment,7,42,166,Under Construction,19.1943294,72.9701779
+579,Z65571296,300,2,Bhagwati Greens 1,Residential Apartment,35,11,130,Ready to move,19.1943294,72.9701779
+580,S69961062,890,3,Mohini Tower,Residential Apartment,15,27,94,Under Construction,19.1943294,72.9701779
+581,S68268128,1072,2,Navkar City Phase II Part 3,Residential Apartment,35,48,166,Under Construction,19.1943294,72.9701779
+582,R70365060,1095,3,Heritage Mariyam Heritage,Residential Apartment,15,4,130,Under Construction,19.1943294,72.9701779
+583,R65136860,300,3,Swaraj Homes Yogniti Apartment,Residential Apartment,14,35,94,Under Construction,19.1943294,72.9701779
+584,U30238725,1110,2,Lodha Palava Lakeshore Greens,Residential Apartment,13,15,80,Under Construction,19.1943294,72.9701779
+585,Z14436597,1200,2,Platinum Balaji Kalash,Residential Apartment,5,30,57,Under Construction,51.6335851,0.0097947
+586,G65132036,1200,3,Marathon Galaxy,Residential Apartment,15,23,55,Under Construction,51.6335851,0.0097947
+587,I65136480,300,2,Mandar Shivam Sankal,Residential Apartment,15,43,60,Under Construction,18.9710996,73.0217484
+588,D65033488,1249,3,Dange Complex,Residential Apartment,13,18,56,Under Construction,19.1028516,73.0030748
+589,I65193376,300,3,A M Balaji Heights,Residential Apartment,14,1,49,Under Construction,51.6335851,0.0097947
+590,U66560342,1249,2,A M Balaji Heights,Residential Apartment,13,28,135,Under Construction,19.1296868,72.9283701
+591,G67862882,1450,3,A M Balaji Heights,Residential Apartment,15,49,220,Under Construction,19.1943294,72.9701779
+592,T65507276,400,2,A M Balaji Heights,Residential Apartment,15,32,175,Under Construction,19.1943294,72.9701779
+593,J62156880,1250,3,A M Balaji Heights,Residential Apartment,15,7,178,Under Construction,19.1943294,72.9701779
+594,Y59362532,1550,3,A M Balaji Heights,Residential Apartment,23,34,140,Under Construction,19.1943294,72.9701779
+595,M69158094,1279,3,Braj City,Residential Apartment,14,10,72,Ready to move,19.1943294,72.9701779
+596,N59383884,1125,3,Runwal Runwal Forests Tower 9 To 11,Residential Apartment,23,40,70,Under Construction,19.1943294,72.9701779
+597,I66637378,800,2,Reputed Builder Arjuna Park CHS,Residential Apartment,22,26,150,Under Construction,19.1943294,72.9701779
+598,J65507076,1100,3,Runwal Forest Tower 1 To 4,Residential Apartment,15,21,100,Under Construction,19.1943294,72.9701779
+599,T59553546,1090,3,Lodha Casa Rio,Residential Apartment,7,44,175,Under Construction,19.1943294,72.9701779
+600,Z70321408,1000,2,Reputed Builder Wild Wood Park 2,Residential Apartment,21,50,110,Under Construction,19.1943294,72.9701779
+601,D60114290,250,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,38,130,Under Construction,19.1943294,72.9701779
+602,W47845047,1200,2,Joshi Shivamrit Complex,Residential Apartment,7,29,125,Under Construction,19.1943294,72.9701779
+603,J44144705,600,3,N Rose Northern Heights,Residential Apartment,6,16,130,Under Construction,19.1943294,72.9701779
+604,X68264018,1212,2,Happy Home Sarvoday Nagar Sector 1,Residential Apartment,15,2,150,Under Construction,19.1943294,72.9701779
+605,Y67892262,717,3,Aries Aries Vangani Height,Residential Apartment,23,47,75,Under Construction,19.1943294,72.9701779
+606,T59552840,1500,3,Reputed Builder Wild Wood Park 2,Residential Apartment,14,33,95,Under Construction,19.1943294,72.9701779
+607,V68706986,680,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,20,90,Under Construction,19.1943294,72.9701779
+608,J59384006,57,3,Evershine Sapphire,Residential Apartment,23,9,62,Under Construction,19.1943294,72.9701779
+609,Z65127106,150,3,Vishrut Casablanca,Residential Apartment,21,41,55,Under Construction,19.1943294,72.9701779
+610,L65506586,125,2,Rashmi Heights,Residential Apartment,35,27,50,Under Construction,19.1943294,72.9701779
+611,T68980136,2000,3,Reputed Builder Flight View,Residential Apartment,15,6,50,Under Construction,19.1943294,72.9701779
+612,L67813878,1170,3,Godrej Hill,Residential Apartment,7,36,55,Under Construction,19.1943294,72.9701779
+613,X70972548,550,3,Reputed Builder Vraj Villa,Residential Apartment,29,17,42,Under Construction,19.1943294,72.9701779
+614,Y70972546,405,3,Atul Blue Orbit Phase 3,Residential Apartment,29,48,52,Under Construction,19.1943294,72.9701779
+615,G69398080,200,2,Mahaavir Pride,Residential Apartment,3,11,42,Under Construction,19.1943294,72.9701779
+616,L69953748,200,2,Ekta WestBay,Residential Apartment,3,28,65,Under Construction,19.1943294,72.9701779
+617,N70302700,500,2,Reputed Builder Sai Pratik CHS,Residential Apartment,4,42,60,Under Construction,19.1943294,72.9701779
+618,D70633690,450,3,Tuljabhavani Draupadi Heights,Residential Apartment,23,15,50,Under Construction,19.1943294,72.9701779
+619,B70913562,600,2,SS Balaji Krishna,Residential Apartment,4,3,55,Under Construction,19.1943294,72.9701779
+620,O70652992,1500,2,Rachana Sukh Shanti Niwas,Residential Apartment,30,49,42,Under Construction,19.1943294,72.9701779
+621,T46577209,900,2,Arkade Art,Studio Apartment,12,23,55,Under Construction,19.1943294,72.9701779
+622,V46548027,1200,3,Reputed Builder Khar Gymkhana,Residential Apartment,15,7,43,Under Construction,19.1943294,72.9701779
+623,H70291946,870,2,Sethia Green View,Residential Apartment,15,32,155,Under Construction,19.1943294,72.9701779
+624,F67681964,300,2,Reputed Builder Karma Apartment,Residential Apartment,15,46,165,Under Construction,19.1943294,72.9701779
+625,U62909720,1500,2,Raja Tirupati Balaji Towers,Residential Apartment,4,12,113.99999,Under Construction,19.2083801,72.842227
+626,A69960944,300,2,Reputed Builder Samarpan Complex Arpan,Residential Apartment,16,35,120,Under Construction,19.0963013,72.9272588
+627,G70441192,800,3,Jem Jupiter Complex,Residential Apartment,15,18,135,Under Construction,19.2169792,72.8668905
+628,K70365300,1095,3,S K Avadh Township,Residential Apartment,13,45,160,Under Construction,19.2169792,72.8668905
+629,A67478726,300,3,S K Avadh Township,Residential Apartment,15,5,220,Under Construction,19.2169792,72.8668905
+630,M70110646,650,2,Raj Mandir Complex,Residential Apartment,15,21,110,Under Construction,19.1989795,73.19611234
+631,Z69344182,1082,2,SA Sneh Kutir,Residential Apartment,10,39,166,Under Construction,19.2169792,72.8668905
+632,S69013768,1082,2,Padmawati Rudransh,Residential Apartment,15,14,140,Ready to move,19.2169792,72.8668905
+633,O69103932,650,3,Arihant Aloki Phase IV,Residential Apartment,19,24,85,Ready to move,19.2209867,72.8574202
+634,B70849312,666,2,Ozone The Gateway,Residential Apartment,23,50,75,Ready to move,19.2209867,72.8574202
+635,N70849310,439,2,Cidco NRI Complex,Residential Apartment,23,37,60,Ready to move,19.2209867,72.8574202
+636,N70132522,840,2,Neminath Sahnivas CHSL And Prabhat CHSL Building No 1 And 2,Residential Apartment,7,8,49,Ready to move,19.2169792,72.8668905
+637,S70132520,675,3,Sahabhagi Riva Rythm,Residential Apartment,7,30,42,Ready to move,19.2169792,72.8668905
+638,A68343094,560,2,Sahabhagi Riva Rythm,Residential Apartment,38,44,65,Ready to move,19.2169792,72.8668905
+639,U68343092,420,1,Sahabhagi Riva Rythm,Residential Apartment,38,22,45,Ready to move,19.2169792,72.8668905
+640,H67864458,1044,3,Sahabhagi Riva Rythm,Residential Apartment,39,4,60,Under Construction,19.2169792,72.8668905
+641,E65874858,645,3,Sahabhagi Riva Rythm,Residential Apartment,44,31,55,Under Construction,19.2169792,72.8668905
+642,H65874854,457,3,Sahabhagi Riva Rythm,Residential Apartment,44,40,43,Under Construction,19.2169792,72.8668905
+643,V68044834,482,2,Sahabhagi Riva Rythm,Residential Apartment,7,19,55,Ready to move,19.2169792,72.8668905
+644,O68783268,850,2,Sahabhagi Riva Rythm,Residential Apartment,25,26,135,Ready to move,19.2209867,72.8574202
+645,B70251048,1000,2,Reputed Builder Arihant Darshan,Residential Apartment,9,10,160,Ready to move,19.2209867,72.8574202
+646,A62769066,1100,2,Veena Sitar,Residential Apartment,15,43,150,Ready to move,19.2209867,72.8574202
+647,C66478264,425,3,Umiya Oasis,Residential Apartment,4,25,110,Ready to move,19.2169792,72.8668905
+648,N68162598,550,4,Shree Yogeshwar Yogeshwar Park,Residential Apartment,9,1,140,Ready to move,19.2169792,72.8668905
+649,V70766528,594,2,Reputed Builder Sunder Tower,Residential Apartment,11,34,69,Ready to move,19.2169792,72.8668905
+650,Q70766526,405,1,Panvelkar Aquamarine,Residential Apartment,11,13,83,Ready to move,19.2169792,72.8668905
+651,V70104820,306,3,Shree Yogeshwar Yogeshwar Park,Studio Apartment,17,28,90,Under Construction,19.2169792,72.8668905
+652,X41282621,750,3,Ekdanta 24 Karat,Residential Apartment,3,42,51,Under Construction,19.2169792,72.8668905
+653,B65444858,800,4,Shree Saibaba Grihanirmiti Neelambari,Residential Apartment,19,15,52,Under Construction,19.2169792,72.8668905
+654,I65625664,750,4,Ravriya Neelkanth Aangan,Residential Apartment,9,6,42,Under Construction,19.2169792,72.8668905
+655,I41918037,2000,3,Vimal Residency,Residential Apartment,3,49,55,Under Construction,19.2209867,72.8574202
+656,G66135482,300,3,Reputed Builder Persiana,Residential Apartment,7,21,55,Under Construction,19.2169792,72.8668905
+657,I37956749,950,3,Reputed Builder Wild Wood Park 2,Residential Apartment,8,37,65,Under Construction,19.2209867,72.8574202
+658,N67542396,750,3,Chintamani Maple City Phase I,Residential Apartment,19,8,54,Under Construction,19.2169792,72.8668905
+659,A70868586,200,2,Chintamani Maple City Phase I,Residential Apartment,7,46,53,Under Construction,19.2209867,72.8574202
+660,Y70868568,300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,12,55,Under Construction,25.6030053,85.1623397
+661,W67010456,200,2,Green Riddhish Apartment,Residential Apartment,6,35,50,Under Construction,19.2169792,72.8668905
+662,B51054056,800,3,Chintamani Maple City Phase I,Residential Apartment,17,2,110,Under Construction,19.2209867,72.8574202
+663,T69464884,750,2,Green Riddhish Apartment,Residential Apartment,9,32,140,Under Construction,19.2209867,72.8574202
+664,Q65340848,1300,2,Green Riddhish Apartment,Residential Apartment,21,9,171,Under Construction,19.2209867,72.8574202
+665,T70846568,250,3,Green Riddhish Apartment,Residential Apartment,7,44,160,Under Construction,19.2169792,72.8668905
+666,A53227796,800,3,Green Riddhish Apartment,Residential Apartment,3,20,118,Under Construction,19.2169792,72.8668905
+667,V41977695,1300,2,Swastik Heights,Residential Apartment,20,33,60,Under Construction,19.2209867,72.8574202
+668,H69673522,300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,7,48.5,Under Construction,19.2169792,72.8668905
+669,T41937261,300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,48,43,Under Construction,19.2169792,72.8668905
+670,C68335336,300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,32,18,45,Under Construction,19.2209867,72.8574202
+671,Z40047011,900,1,Reputed Builder EL-Dorado,Residential Apartment,8,27,41,Under Construction,19.2169792,72.8668905
+672,A69464948,1200,2,Moraj Moraj Maa Smriti,Residential Apartment,9,3,50,Under Construction,19.2169792,72.8668905
+673,Y41241059,300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,14,29,55,Under Construction,19.2169792,72.8668905
+674,B69550402,700,2,Tejas Builders and Developers Vastupurti,Residential Apartment,9,14,45,Under Construction,19.2169792,72.8668905
+675,Y41913903,800,2,Reputed Builder Wild Wood Park 2,Residential Apartment,3,39,50,Under Construction,19.2209867,72.8574202
+676,V65143074,200,2,Reputed Builder Saket Towers,Residential Apartment,6,23,53,Under Construction,25.6030053,85.1623397
+677,L70797162,250,2,Reputed Builder Wild Wood Park 2,Residential Apartment,12,11,190,Under Construction,25.6030053,85.1623397
+678,R70678136,4000,2,Reputed Builder Wild Wood Park 2,Residential Apartment,3,38,155,Under Construction,19.2169792,72.8668905
+679,Z35755659,1690,3,Reputed Builder Wild Wood Park 2,Residential Apartment,14,5,135,Under Construction,19.2169792,72.8668905
+680,Z70439112,200,2,Raj Riddhi Residency,Residential Apartment,9,36,136,Under Construction,19.2169792,72.8668905
+681,V70388076,560,3,Enso Enso Sanza,Residential Apartment,7,17,155,Under Construction,25.6030053,85.1623397
+682,A42424483,800,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,41,165,Under Construction,19.2169792,72.8668905
+683,K53624090,300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,7,26,86,Under Construction,19.2169792,72.8668905
+684,M65899024,300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,10,100,Under Construction,19.2169792,72.8668905
+685,X67222478,250,2,Reputed Builder Wild Wood Park 2,Residential Apartment,6,45,105,Under Construction,19.2169792,72.8668905
+686,B70330638,1100,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,22,47,Under Construction,19.2269824,72.8659904
+687,E67438748,130,2,Reputed Builder Wild Wood Park 2,Residential Apartment,9,4,62,Under Construction,19.2209867,72.8574202
+688,S68772446,300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,12,31,45,Under Construction,19.2209867,72.8574202
+689,W67704876,200,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,50,69,Under Construction,19.2169792,72.8668905
+690,O39909483,1000,2,Reputed Builder Wild Wood Park 2,Residential Apartment,10,19,45,Under Construction,19.2209867,72.8574202
+691,B40253303,800,3,Reputed Builder Wild Wood Park 2,Residential Apartment,10,40,100,Under Construction,19.2169792,72.8668905
+692,O41929551,300,2,Tata New Haven,Residential Apartment,9,16,130,Under Construction,19.2169792,72.8668905
+693,J68396894,700,3,Tejas Builders and Developers Vastupurti,Residential Apartment,19,30,110,Under Construction,19.2169792,72.8668905
+694,L70796944,250,2,Reputed Builder Wild Wood Park 2,Residential Apartment,3,47,130,Under Construction,19.2103809,72.8640837
+695,M70721370,100,3,Reputed Builder Wild Wood Park 2,Residential Apartment,3,13,160,Under Construction,19.2103809,72.8640837
+696,K70655918,1500,2,Reputed Builder Wild Wood Park 2,Residential Apartment,18,25,105,Under Construction,19.2103809,72.8640837
+697,S70562186,5000,3,Reputed Builder Wild Wood Park 2,Independent House/Villa,2,1,130,Under Construction,19.2103809,72.8640837
+698,K51531130,300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,4,34,95,Under Construction,19.2169792,72.8668905
+699,H65222116,300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,21,43,45,Under Construction,19.2072164,72.8705139
+700,F39554111,1200,2,Reputed Builder Wild Wood Park 2,Residential Apartment,6,24,110,Under Construction,19.2072164,72.8705139
+701,M70102338,800,3,Reputed Builder Wild Wood Park 2,Residential Apartment,12,15,110,Under Construction,18.9710996,73.0217484
+702,Z65208446,1400,2,Space India Blue Crest,Residential Apartment,23,2,130,Under Construction,19.1028516,73.0030748
+703,A51248960,900,2,Reputed Builder Wild Wood Park 2,Residential Apartment,4,21,136,Under Construction,51.6335851,0.0097947
+704,J70080278,700,2,Reputed Builder Wild Wood Park 2,Residential Apartment,3,48,162,Under Construction,19.1296868,72.9283701
+705,G67100884,400,3,Reputed Builder Wild Wood Park 2,Residential Apartment,7,7,150,Under Construction,32.9144984,-117.1476656
+706,B68822822,1300,3,Lodha Woods,Residential Apartment,9,37,132,Under Construction,32.9144984,-117.1476656
+707,M70039154,700,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,8,75,Under Construction,32.9144984,-117.1476656
+708,V70034154,3000,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,46,95,Ready to move,17.4082789,78.5596109
+709,O70489428,1200,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,12,150,Ready to move,28.58529855,77.24356543
+710,H69137412,1100,2,Reputed Builder Wild Wood Park 2,Residential Apartment,20,35,75,Ready to move,19.0759899,72.8773928
+711,I68929194,900,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,18,130,Ready to move,32.9144984,-117.1476656
+712,S67101712,1100,3,Gurukrupa Marina Enclave M N Phase ll,Residential Apartment,9,39,162,Ready to move,32.9144984,-117.1476656
+713,S70562192,2000,3,Trimurti Shiv Krupa Residency,Residential Apartment,8,3,110,Ready to move,32.9144984,-117.1476656
+714,Y70399568,200,3,Reputed Builder 1 Row House,Residential Apartment,9,29,116,Ready to move,32.9144984,-117.1476656
+715,B70377694,750,3,PR Urvashi Terraces,Residential Apartment,7,16,56,Ready to move,32.9144984,-117.1476656
+716,J68706778,580,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,41,80,Under Construction,32.9144984,-117.1476656
+717,H69913230,300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,26,95,Under Construction,32.9144984,-117.1476656
+718,H68272418,300,2,Ashiana LA Arihant Harmony,Residential Apartment,20,10,20.18,Under Construction,32.9144984,-117.1476656
+719,D51126544,1400,2,Ashiana LA Arihant Harmony,Residential Apartment,7,45,650,Under Construction,32.9144984,-117.1476656
+720,R40880987,2000,3,Reputed Builder Wild Wood Park 2,Residential Apartment,2,22,450,Under Construction,19.1287942,72.8255543
+721,G53578702,1600,2,Reputed Builder Wild Wood Park 2,Residential Apartment,21,5,165,Ready to move,19.1287942,72.8255543
+722,N65770834,1200,3,Reputed Builder Wild Wood Park 2,Residential Apartment,25,32,23.75,Under Construction,19.2209867,72.8574202
+723,X51015914,300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,7,50,195,Under Construction,19.2209867,72.8574202
+724,C53358158,900,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,17,20,Under Construction,6.3397717,-57.5733337
+725,N68927610,1300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,38,25,Under Construction,19.2209867,72.8574202
+726,H69959094,300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,5,9,22.5,Under Construction,19.2209867,72.8574202
+727,V70100556,300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,9,44,27,Under Construction,25.6030053,85.1623397
+728,F65758362,1200,3,Reputed Builder Wild Wood Park 2,Residential Apartment,12,20,220,Under Construction,19.2169792,72.8668905
+729,W50444344,575,2,Reputed Builder Wild Wood Park 2,Residential Apartment,6,33,170,Under Construction,19.2169792,72.8668905
+730,C68154046,750,3,Indiabulls Sky,Residential Apartment,9,6,435,Under Construction,25.6030053,85.1623397
+731,O68170466,925,2,Reputed Builder Wild Wood Park 2,Residential Apartment,22,31,47.6,Under Construction,19.2169792,72.8668905
+732,G68170464,608,3,Gami Amar Harmony,Residential Apartment,22,49,181,Under Construction,19.2169792,72.8668905
+733,H67250640,1680,2,Reputed Builder Wild Wood Park 2,Residential Apartment,22,14,238,Under Construction,19.2169792,72.8668905
+734,U71011496,380,3,Reputed Builder Wild Wood Park 2,Residential Apartment,20,28,212,Under Construction,19.2169792,72.8668905
+735,T65736784,650,3,Jyoti Developers Meadow,Residential Apartment,42,4,86,Under Construction,25.6030053,85.1623397
+736,U65736782,308,3,Jyoti Developers Meadow,Residential Apartment,42,43,365,Under Construction,19.2169792,72.8668905
+737,H64576432,630,3,Jyoti Developers Meadow,Residential Apartment,21,27,237,Under Construction,19.2169792,72.8668905
+738,U64576430,408,4,Jyoti Developers Meadow,Residential Apartment,21,11,214,Under Construction,19.2103809,72.8640837
+739,T69019936,790,2,Jyoti Developers Meadow,Residential Apartment,22,36,125,Under Construction,19.2389025,72.9932692
+740,V70010424,120,4,Jyoti Developers Meadow,Residential Apartment,8,19,180,Under Construction,19.22734225,72.9718477
+741,W66432744,624,2,Reputed Builder Wild Wood Park 2,Residential Apartment,41,42,132,Under Construction,19.22734225,72.9718477
+742,G66432742,417,3,Reputed Builder Wild Wood Park 2,Residential Apartment,41,1,353,Under Construction,25.89592445,82.43771623
+743,Z67864758,2528,2,Evershine Classique,Residential Apartment,68,23,153,Under Construction,-2.409288,120.6657125
+744,V67864756,1580,2,Reputed Builder Vijay Apartment,Residential Apartment,68,13,250,Under Construction,19.2389025,72.9932692
+745,D67864754,1338,2,Reputed Builder Dhiraj Apartment,Residential Apartment,68,40,138.99999,Under Construction,19.1943294,72.9701779
+746,G69290352,230,2,Reputed Builder Shiv Jyoti,Residential Apartment,10,25,335,Under Construction,19.0525298,73.0735111
+747,E40933601,180,4,Reputed Builder Wild Wood Park 2,Residential Apartment,15,8,145,Under Construction,19.1943294,72.9701779
+748,T67730362,535,3,Reputed Builder Hari Om Valley,Serviced Apartments,1,47,90,Under Construction,19.1840129,72.8412155
+749,O67730912,535,3,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,30,135,Under Construction,-28.8166236,24.991639
+750,Y67730894,535,3,Raj Nirvana,Serviced Apartments,6,24,90,Under Construction,-28.8166236,24.991639
+751,Z67730862,535,2,Raj Nirvana,Serviced Apartments,1,3,216,Under Construction,19.074534,73.09063078
+752,V67730836,535,4,Crescent Landmark,Serviced Apartments,4,34,137,Under Construction,19.074534,73.09063078
+753,Z67730820,535,5,Reputed Builder Wild Wood Park 2,Serviced Apartments,2,15,277.99999,Under Construction,38.6948561,23.79767474
+754,H67730808,535,5,Reputed Builder Wild Wood Park 2,Serviced Apartments,3,22,279,Under Construction,19.2389025,72.9932692
+755,W67731240,535,5,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,48,816,Under Construction,19.2389025,72.9932692
+756,M67731232,535,4,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,7,386,Under Construction,19.2267228,72.8619328
+757,I67731130,535,4,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,37,170,Under Construction,19.2267228,72.8619328
+758,F67731230,535,4,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,16,601,Under Construction,19.0164338,73.0806552
+759,Y67731226,535,4,Dosti Dosti P180,Serviced Apartments,1,41,279,Ready to move,19.0257731,73.05918478
+760,N67731224,535,4,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,9,315,Ready to move,19.1462636,72.9339461
+761,F67731222,535,4,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,39,375,Ready to move,19.0269192,72.8759337
+762,Q67731110,535,4,Reputed Builder Wild Wood Park 2,Serviced Apartments,2,14,310,Ready to move,19.0269192,72.8759337
+763,R67731108,535,4,Reputed Builder Wild Wood Park 2,Serviced Apartments,4,29,211,Ready to move,19.0834898,72.9120255
+764,J67731206,535,3,Reputed Builder Wild Wood Park 2,Serviced Apartments,3,5,165,Ready to move,19.1840129,72.8412155
+765,U67731204,535,5,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,35,160,Ready to move,19.2677582,73.0809815
+766,L67731188,535,3,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,18,260,Ready to move,19.2494501,72.8596206
+767,O67731182,300,5,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,43,152,Ready to move,19.1840129,72.8412155
+768,S67731140,535,5,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,26,23,Ready to move,19.2224897,72.9663424
+769,K67731018,535,4,Reputed Builder Wild Wood Park 2,Serviced Apartments,1,10,330,Ready to move,19.1943294,72.9701779
+770,L67730990,535,3,Reputed Builder Wild Wood Park 2,Serviced Apartments,2,45,290,Ready to move,19.2716301,73.23586553
+771,M67730974,535,3,Aditya Adarsh Avenue,Serviced Apartments,1,21,112,Under Construction,19.6993333,72.7127647
+772,E70802998,1000,3,Reputed Builder Wild Wood Park 2,Residential Apartment,12,6,90,Under Construction,19.2103809,72.8640837
+773,N70802916,1000,3,Asaya Nivasti Aurous,Residential Apartment,15,31,85,Under Construction,19.2209998,72.96302048
+774,L70802642,1000,3,Asaya Nivasti Aurous,Residential Apartment,7,49,90,Under Construction,19.0257731,73.05918478
+775,G70802598,1000,2,Asaya Nivasti Aurous,Residential Apartment,7,17,115,Under Construction,19.4553059,72.811816
+776,T70575532,650,3,Reputed Builder Wild Wood Park 2,Residential Apartment,17,38,121,Under Construction,19.2816975,72.8560676
+777,V70575450,1220,3,Reputed Builder Wild Wood Park 2,Residential Apartment,16,12,110,Under Construction,19.2816975,72.8560676
+778,R69346370,1100,2,Mantri Serene,Residential Apartment,22,33,270,Under Construction,19.2816975,72.8560676
+779,J67724860,1000,3,Reputed Builder Wild Wood Park 2,Residential Apartment,16,20,216,Ready to move,19.0525298,73.0735111
+780,F51563230,611,3,Reputed Builder Wild Wood Park 2,Serviced Apartments,12,4,302,Ready to move,19.0525298,73.0735111
+781,H45627841,620,3,Reputed Builder Wild Wood Park 2,Serviced Apartments,12,42,412,Ready to move,19.0525298,73.0735111
+782,T69124962,1100,2,Reputed Builder Wild Wood Park 2,Residential Apartment,8,1,305,Ready to move,19.0525298,73.0735111
+783,E66555548,1300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,23,367,Ready to move,19.0525298,73.0735111
+784,V67726966,1200,3,Reputed Builder Wild Wood Park 2,Residential Apartment,16,13,238,Ready to move,19.0525298,73.0735111
+785,W69129110,1100,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,40,205,Ready to move,19.0525298,73.0735111
+786,U52787258,1250,4,Reputed Builder Wild Wood Park 2,Residential Apartment,15,25,55,Under Construction,19.0525298,73.0735111
+787,R53812024,1000,3,Drushti Varun,Residential Apartment,15,8,90,Under Construction,19.0525298,73.0735111
+788,F45136101,900,4,Drushti Varun,Residential Apartment,9,47,325,Under Construction,19.0525298,73.0735111
+789,D45137381,1500,3,Drushti Varun,Residential Apartment,12,30,85,Under Construction,19.0525298,73.0735111
+790,N45137209,1500,3,Drushti Varun,Residential Apartment,15,24,85,Under Construction,19.0525298,73.0735111
+791,V51017318,615,3,Drushti Varun,Residential Apartment,9,3,90,Under Construction,19.0525298,73.0735111
+792,M45346443,900,2,Drushti Varun,Residential Apartment,9,34,25,Under Construction,19.0525298,73.0735111
+793,L65038644,300,3,Drushti Varun,Residential Apartment,9,15,55,Under Construction,19.0525298,73.0735111
+794,V58621458,950,2,Drushti Varun,Residential Apartment,15,22,80,Under Construction,19.0525298,73.0735111
+795,C58621406,950,2,Drushti Varun,Residential Apartment,15,48,275,Under Construction,19.0525298,73.0735111
+796,I58621340,950,3,Drushti Varun,Residential Apartment,15,7,115,Under Construction,19.0525298,73.0735111
+797,G65037938,400,3,Drushti Varun,Residential Apartment,9,37,359,Under Construction,19.0525298,73.0735111
+798,J50617008,1000,2,Drushti Varun,Residential Apartment,15,16,420,Under Construction,19.0525298,73.0735111
+799,C45137985,1500,2,Drushti Varun,Residential Apartment,15,41,331,Under Construction,19.0525298,73.0735111
+800,W52787056,1250,2,Drushti Varun,Residential Apartment,15,9,1060,Under Construction,19.0525298,73.0735111
+801,G45152535,300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,14,45,1014,Under Construction,19.0525298,73.0735111
+802,T45140503,1150,3,Reputed Builder Wild Wood Park 2,Residential Apartment,13,28,325,Ready to move,19.0525298,73.0735111
+803,B53894064,1500,2,Reputed Builder Wild Wood Park 2,Residential Apartment,13,17,185,Ready to move,19.0525298,73.0735111
+804,W67182200,1444,3,Reputed Builder Wild Wood Park 2,Residential Apartment,6,50,110,Ready to move,19.0525298,73.0735111
+805,D67182102,250,3,Reputed Builder Wild Wood Park 2,Residential Apartment,6,32,92,Ready to move,19.0525298,73.0735111
+806,L67182026,150,3,Reputed Builder Wild Wood Park 2,Residential Apartment,22,19,501,Ready to move,19.0525298,73.0735111
+807,T67181992,250,3,Reputed Builder Wild Wood Park 2,Residential Apartment,22,46,330,Ready to move,19.0525298,73.0735111
+808,C67181922,150,3,Vishesh Balaji Symphony ,Residential Apartment,7,12,341,Ready to move,19.0525298,73.0735111
+809,Y67181448,650,3,Reputed Builder Wild Wood Park 2,Residential Apartment,16,25,218,Ready to move,19.0525298,73.0735111
+810,C67181956,150,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,34,218,Under Construction,19.0525298,73.0735111
+811,V65039688,1075,2,Rishabraj Nemi Elegance,Residential Apartment,18,23,212,Under Construction,19.0525298,73.0735111
+812,E58621016,950,3,Rishabraj Nemi Elegance,Residential Apartment,15,40,30,Ready to move,19.0525298,73.0735111
+813,Y67430484,150,3,Rishabraj Nemi Elegance,Residential Apartment,16,1,110,Ready to move,19.0525298,73.0735111
+814,B55922356,300,3,Rishabraj Nemi Elegance,Residential Apartment,7,26,179,Under Construction,19.0525298,73.0735111
+815,P53841248,1000,3,Rishabraj Nemi Elegance,Residential Apartment,9,47,195,Ready to move,19.0525298,73.0735111
+816,V50612598,1000,2,Rishabraj Nemi Elegance,Residential Apartment,12,8,160,Ready to move,19.2103809,72.8640837
+817,B67182134,144,3,Rishabraj Nemi Elegance,Residential Apartment,6,35,64,Ready to move,19.1296868,72.9283701
+818,S70182590,280,2,Rishabraj Nemi Elegance,Serviced Apartments,9,15,900,Ready to move,19.1005232,72.8274318
+819,I70180808,1200,3,Rishabraj Nemi Elegance,Residential Apartment,8,42,21,Ready to move,32.9144984,-117.1476656
+820,V61702998,120,3,Rishabraj Nemi Elegance,Residential Apartment,8,18,36,Ready to move,19.1692623,72.8552548
+821,P41955345,1500,2,Rishabraj Nemi Elegance,Residential Apartment,20,29,92,Under Construction,19.2103809,72.8640837
+822,K41102835,550,2,Rishabraj Nemi Elegance,Residential Apartment,8,4,92,Ready to move,19.2103809,72.8640837
+823,V42033555,300,2,Rishabraj Nemi Elegance,Residential Apartment,9,38,53,Under Construction,19.2294561,72.8479905
+824,V41056081,450,3,Rishabraj Nemi Elegance,Studio Apartment,6,21,95,Ready to move,19.1840129,72.8412155
+825,N41203079,400,3,Rishabraj Nemi Elegance,Studio Apartment,8,6,90,Under Construction,19.2083801,72.842227
+826,W49519257,300,3,Rishabraj Nemi Elegance,Residential Apartment,15,33,110,Ready to move,19.2103809,72.8640837
+827,I40987847,500,3,Reputed Builder Wild Wood Park 2,Residential Apartment,19,11,72,Ready to move,19.2083801,72.842227
+828,E53812198,300,2,Reputed Builder EL-Dorado,Residential Apartment,15,48,70,Ready to move,19.2103809,72.8640837
+829,X43322771,1500,2,Princecare Zinnia,Residential Apartment,13,22,110,Ready to move,19.2103809,72.8640837
+830,F45466563,501,3,Princecare Zinnia,Serviced Apartments,12,3,45,Ready to move,19.2103809,72.8640837
+831,W67181536,675,3,Reputed Builder Wild Wood Park 2,Residential Apartment,16,41,168,Ready to move,18.9703373,72.8095468
+832,V45139885,1603,3,Reputed Builder Wild Wood Park 2,Residential Apartment,33,16,162.99999,Ready to move,19.1462636,72.9339461
+833,Q45139839,1603,3,Reputed Builder Wild Wood Park 2,Residential Apartment,33,39,155,Ready to move,19.1462636,72.9339461
+834,J58621276,950,3,Shilpriya Silicon Enclave,Residential Apartment,15,9,49,Ready to move,18.9710996,73.0217484
+835,O53841482,1000,2,Reputed Builder Wild Wood Park 2,Residential Apartment,18,44,34,Ready to move,26.6279798,-80.4494174
+836,W69388080,672,3,Shilpriya Silicon Enclave,Residential Apartment,27,27,48,Ready to move,19.2816975,72.8560676
+837,R69388078,503,2,Shilpriya Silicon Enclave,Residential Apartment,27,2,62,Ready to move,19.1633281,72.8411995
+838,Q68451400,536,3,Reputed Builder Wild Wood Park 2,Residential Apartment,23,37,337,Ready to move,18.9963318,72.8308603
+839,L68451398,436,2,Shree Umiya Varsha Palm,Residential Apartment,23,20,501,Ready to move,19.0164338,73.0806552
+840,O67181790,150,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,5,107,Ready to move,19.0164338,73.0806552
+841,P45139617,1603,3,Reputed Builder Wild Wood Park 2,Residential Apartment,33,36,150,Ready to move,19.0164338,73.0806552
+842,T67181368,650,3,Reputed Builder Wild Wood Park 2,Residential Apartment,16,13,185,Ready to move,19.0257731,73.05918478
+843,M45140141,1150,3,Reputed Builder Wild Wood Park 2,Residential Apartment,13,49,176,Ready to move,19.0257731,73.05918478
+844,M67182218,1444,3,Reputed Builder Wild Wood Park 2,Residential Apartment,5,24,70,Under Construction,19.0257731,73.05918478
+845,Q45143337,1000,2,Reputed Builder Wild Wood Park 2,Residential Apartment,9,7,110,Ready to move,19.0257731,73.05918478
+846,M67727258,1200,2,Balaji Avenue,Residential Apartment,10,30,45,Under Construction,28.39137685,76.88638485
+847,C45144207,900,2,Reputed Builder Wild Wood Park 2,Residential Apartment,9,14,168,Under Construction,19.0257731,73.05918478
+848,R43321743,1150,4,Hubtown Ackruti Astha,Residential Apartment,13,43,162.99999,Under Construction,19.0164338,73.0806552
+849,K45152363,1150,2,Reputed Builder Wild Wood Park 2,Residential Apartment,13,10,155,Under Construction,18.96558885,73.10288131
+850,E65142294,300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,31,50,Under Construction,19.0164338,73.0806552
+851,S45137533,1500,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,45,40,Under Construction,19.0164338,73.0806552
+852,S45136553,900,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,28,38,Under Construction,19.1633281,72.8411995
+853,Y45127677,1500,2,Reputed Builder Wild Wood Park 2,Residential Apartment,13,17,44,Under Construction,18.9963318,72.8308603
+854,O40933703,250,3,Reputed Builder Wild Wood Park 2,Residential Apartment,8,50,90,Under Construction,28.6365482,77.0964961
+855,J65040290,300,1,Reputed Builder Wild Wood Park 2,Residential Apartment,18,32,26,Under Construction,19.0164338,73.0806552
+856,Y67640706,1000,2,Ascent Fortune,Residential Apartment,25,19,210,Ready to move,19.0164338,73.0806552
+857,E53812078,1000,1,Ascent Fortune,Residential Apartment,15,46,49,Under Construction,19.0164338,73.0806552
+858,N50612814,1000,4,Reputed Builder Wild Wood Park 2,Residential Apartment,15,12,34,Under Construction,19.0164338,73.0806552
+859,F41176125,150,2,Reputed Builder Wild Wood Park 2,Studio Apartment,15,25,48,Under Construction,19.0164338,73.0806552
+860,E50617236,1000,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,34,62,Under Construction,19.0164338,73.0806552
+861,D53841812,300,4,Reputed Builder Wild Wood Park 2,Residential Apartment,15,23,185,Under Construction,19.0164338,73.0806552
+862,R45143547,1000,2,Reputed Builder Wild Wood Park 2,Residential Apartment,9,40,196,Under Construction,19.43988455,72.8803834
+863,D70107844,1200,3,Reputed Builder Wild Wood Park 2,Residential Apartment,3,1,186,Under Construction,19.0897194,72.9045972
+864,A67181626,650,3,Reputed Builder Wild Wood Park 2,Residential Apartment,16,26,215,Under Construction,18.9722687,72.8204976
+865,M45134485,900,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,47,110,Under Construction,19.1943294,72.9701779
+866,P53658540,800,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,8,137.99999,Under Construction,19.0116962,72.8180702
+867,J53894006,300,2,Reputed Builder Wild Wood Park 2,Residential Apartment,13,35,140,Under Construction,27.632457,85.37932126
+868,S45140219,1500,2,Reputed Builder Wild Wood Park 2,Residential Apartment,13,15,220,Under Construction,18.9710996,73.0217484
+869,W67181882,150,3,Konnark Gardens,Residential Apartment,7,42,145,Under Construction,26.6279798,-80.4494174
+870,C43361931,280,3,Reputed Builder Wild Wood Park 2,Serviced Apartments,6,18,250,Under Construction,19.2816975,72.8560676
+871,H52787156,1250,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,29,115,Under Construction,19.1633281,72.8411995
+872,M67739504,200,3,Reputed Builder Wild Wood Park 2,Residential Apartment,10,4,40,Under Construction,18.9963318,72.8308603
+873,S69437116,501,3,Reputed Builder Wild Wood Park 2,Residential Apartment,40,38,25,Under Construction,28.6365482,77.0964961
+874,G69437110,291,2,Fia Orion,Residential Apartment,40,21,23,Under Construction,19.1943294,72.9701779
+875,J20544171,600,4,Reputed Builder Wild Wood Park 2,Residential Apartment,4,6,450,Under Construction,19.2716301,73.23586553
+876,W66326760,750,4,Reputed Builder Wild Wood Park 2,Residential Apartment,22,33,57,Under Construction,19.2267228,72.8619328
+877,I69159622,352,4,Reputed Builder Wild Wood Park 2,Residential Apartment,6,11,96,Under Construction,19.2267228,72.8619328
+878,D68375652,1768,4,Reputed Builder Wild Wood Park 2,Residential Apartment,40,48,20.1,Under Construction,19.2483914,72.8525146
+879,H68375650,953,4,Reputed Builder Wild Wood Park 2,Residential Apartment,40,22,20.05,Under Construction,19.0336118,73.01813957
+880,M68181024,1850,3,Reputed Builder Wild Wood Park 2,Independent House/Villa,0,3,25.48,Under Construction,19.0336118,73.01813957
+881,I67900912,458,3,Reputed Builder Wild Wood Park 2,Residential Apartment,25,41,24.92,Ready to move,19.0336118,73.01813957
+882,A67900910,322,2,Reputed Builder Wild Wood Park 2,Residential Apartment,25,16,24.18,Ready to move,19.2103809,72.8640837
+883,E66297426,809,2,Reputed Builder Wild Wood Park 2,Residential Apartment,35,39,24,Ready to move,18.9710996,73.0217484
+884,V66297422,675,2,Reputed Builder Wild Wood Park 2,Residential Apartment,35,9,217,Ready to move,18.9710996,73.0217484
+885,Q66297418,401,3,Reputed Builder Wild Wood Park 2,Residential Apartment,35,44,167,Ready to move,19.1719717,72.9511956
+886,C66159084,752,3,Reputed Builder Wild Wood Park 2,Residential Apartment,17,27,29,Ready to move,19.2267228,72.8619328
+887,J66159080,464,2,Reputed Builder Wild Wood Park 2,Residential Apartment,17,2,115,Ready to move,19.2083801,72.842227
+888,L69933536,940,2,Reputed Builder Wild Wood Park 2,Residential Apartment,20,37,217,Ready to move,19.0614859,73.1161392
+889,K68181010,1150,3,Reputed Builder Wild Wood Park 2,Residential Apartment,4,20,40,Ready to move,19.0614859,73.1161392
+890,Y65190678,881,3,Reputed Builder Wild Wood Park 2,Residential Apartment,24,5,64,Ready to move,35.7184306,-86.5065778
+891,U65190676,683,3,Reputed Builder Wild Wood Park 2,Residential Apartment,24,36,69,Ready to move,19.2267228,72.8619328
+892,C70319366,261,3,Reputed Builder Wild Wood Park 2,Residential Apartment,14,13,75,Ready to move,19.2294561,72.8479905
+893,F70575342,1000,3,Reputed Builder Wild Wood Park 2,Residential Apartment,7,49,54.25,Ready to move,19.2228658,72.8478346
+894,E70538076,550,4,Reputed Builder Wild Wood Park 2,Residential Apartment,6,24,57,Ready to move,19.2228291,72.8409213
+895,C70533980,1400,4,Reputed Builder Wild Wood Park 2,Residential Apartment,10,7,71,Ready to move,37.91300895,12.49262186
+896,M70533078,750,4,Reputed Builder Wild Wood Park 2,Residential Apartment,10,30,78,Ready to move,19.2237651,72.8477759
+897,S70530216,1500,4,Reputed Builder Wild Wood Park 2,Residential Apartment,9,14,59,Ready to move,19.0269192,72.8759337
+898,D70528416,645,4,Reputed Builder Wild Wood Park 2,Residential Apartment,7,43,62,Ready to move,19.0269192,72.8759337
+899,O70523952,847,4,Reputed Builder Wild Wood Park 2,Residential Apartment,8,10,55,Ready to move,19.2294561,72.8479905
+900,R70523558,450,2,Reputed Builder Wild Wood Park 2,Residential Apartment,8,31,50,Ready to move,27.632457,85.37932126
+901,W70522612,2000,3,Shreeji Thakare Complex,Residential Apartment,9,45,40.5,Ready to move,19.0116962,72.8180702
+902,W70518490,350,4,Reputed Builder Wild Wood Park 2,Residential Apartment,19,28,50.5,Ready to move,18.9963318,72.8308603
+903,B70409406,1200,4,Reputed Builder Wild Wood Park 2,Residential Apartment,20,17,74,Ready to move,19.0116962,72.8180702
+904,C70407182,650,3,Reputed Builder Wild Wood Park 2,Residential Apartment,20,50,68,Ready to move,19.0116962,72.8180702
+905,R70403140,1200,3,Reputed Builder Wild Wood Park 2,Residential Apartment,9,32,30,Ready to move,19.0116962,72.8180702
+906,X70342102,730,4,Reputed Builder Wild Wood Park 2,Residential Apartment,20,19,52,Ready to move,19.0148811,72.8279556
+907,G70336732,540,4,Reputed Builder Wild Wood Park 2,Residential Apartment,15,46,67,Ready to move,19.2103809,72.8640837
+908,H70309722,800,3,Reputed Builder Wild Wood Park 2,Residential Apartment,7,12,69,Ready to move,19.2103809,72.8640837
+909,U70237416,1240,3,GHP Powai Vihar Complex,Residential Apartment,5,25,79.5,Ready to move,19.0525298,73.0735111
+910,I70538846,550,3,Reputed Builder Wild Wood Park 2,Residential Apartment,5,34,54.6,Ready to move,17.65670575,75.94391681
+911,A70538526,700,3,Reputed Builder Wild Wood Park 2,Residential Apartment,6,23,49.5,Ready to move,19.0477591,73.07037624
+912,X70533066,750,3,Reputed Builder Wild Wood Park 2,Residential Apartment,13,40,70,Ready to move,19.0257731,73.05918478
+913,T70523648,450,3,Vakratunda Palace,Residential Apartment,10,27,85.75,Ready to move,28.39137685,76.88638485
+914,C70523384,550,3,Reputed Builder Wild Wood Park 2,Residential Apartment,3,8,48,Ready to move,28.39137685,76.88638485
+915,D70504924,950,2,Reputed Builder Wild Wood Park 2,Residential Apartment,11,14,27,Ready to move,19.0257731,73.05918478
+916,Z70488514,800,4,Reputed Builder Wild Wood Park 2,Residential Apartment,16,42,79,Ready to move,19.0257731,73.05918478
+917,K70412708,540,4,Reputed Builder Wild Wood Park 2,Residential Apartment,15,3,360,Ready to move,28.39137685,76.88638485
+918,K70346166,1200,1,Reputed Builder Wild Wood Park 2,Residential Apartment,21,36,350,Ready to move,19.0257731,73.05918478
+919,B70310096,710,1,Reputed Builder Wild Wood Park 2,Residential Apartment,3,19,300,Ready to move,19.0257731,73.05918478
+920,N70284796,650,3,Reputed Builder Wild Wood Park 2,Residential Apartment,20,5,350,Ready to move,24.99294285,67.46500605
+921,S70284100,980,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,23,350,Ready to move,19.0257731,73.05918478
+922,H70241636,800,3,Laxmi Shankar Heights Phase 4,Residential Apartment,18,49,21,Ready to move,28.4913452,77.0710259
+923,H70239960,950,3,HDIL Residency Park,Residential Apartment,12,11,145,Under Construction,28.4913452,77.0710259
+924,J70194524,410,3,Ornate Kallisto Phase I,Residential Apartment,12,32,149,Ready to move,19.0257731,73.05918478
+925,F70194232,750,4,Reputed Builder Wild Wood Park 2,Residential Apartment,12,7,27,Ready to move,28.38431985,76.91223256
+926,G70160058,580,2,Swaraj Homes Dombivali Rahivashi Apartment,Residential Apartment,15,45,38.5,Ready to move,33.4723886,73.0672838
+927,H70145706,1300,3,Reputed Builder Wild Wood Park 2,Residential Apartment,20,20,28.5,Ready to move,28.4913452,77.0710259
+928,R70134030,450,3,Reputed Builder Wild Wood Park 2,Residential Apartment,11,38,121,Ready to move,44.404906,26.0718655
+929,V70116610,680,4,Reputed Builder Wild Wood Park 2,Residential Apartment,20,17,68,Ready to move,28.39137685,76.88638485
+930,G70116278,1300,2,Tharwani Ariana,Residential Apartment,20,9,60,Ready to move,19.0257731,73.05918478
+931,Q70115780,680,3,Reputed Builder Wild Wood Park 2,Residential Apartment,10,29,68.5,Ready to move,19.0257731,73.05918478
+932,J70072302,850,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,2,55,Under Construction,19.04310935,73.07430033
+933,V70071732,1100,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,46,92,Under Construction,19.04310935,73.07430033
+934,G70070202,750,2,Progressive Cottage,Residential Apartment,12,26,50,Ready to move,19.0477591,73.07037624
+935,J70069926,1200,3,Reputed Builder Wild Wood Park 2,Residential Apartment,14,15,175,Ready to move,19.0257731,73.05918478
+936,F70528436,900,2,Reputed Builder Wild Wood Park 2,Residential Apartment,19,40,94,Ready to move,19.0257731,73.05918478
+937,M70523546,950,2,Fortune Harmony,Residential Apartment,5,13,165,Ready to move,19.0257731,73.05918478
+938,M70518014,530,2,Reputed Builder Shree Ambika Apartment,Residential Apartment,3,22,37,Ready to move,19.0257731,73.05918478
+939,S70467692,350,2,Reputed Builder Wild Wood Park 2,Residential Apartment,3,37,27,Ready to move,28.38431985,76.91223256
+940,D70403234,1240,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,10,80,Ready to move,19.0257731,73.05918478
+941,W70318870,1200,2,Reputed Builder Wild Wood Park 2,Residential Apartment,3,4,220,Ready to move,19.0257731,73.05918478
+942,T70198386,750,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,28,102,Ready to move,19.0257731,73.05918478
+943,K70157226,1250,2,Reputed Builder Wild Wood Park 2,Residential Apartment,20,47,31,Ready to move,19.0257731,73.05918478
+944,U70157128,850,1,Reputed Builder Wild Wood Park 2,Residential Apartment,12,6,55,Ready to move,28.39137685,76.88638485
+945,E70145842,1000,3,Reputed Builder Wild Wood Park 2,Residential Apartment,20,33,327.99999,Ready to move,28.38431985,76.91223256
+946,W70134042,1800,2,Swastik Heights,Residential Apartment,15,18,327.99999,Ready to move,28.4618719,77.05688
+947,G70097510,850,1,Reputed Builder Wild Wood Park 2,Residential Apartment,8,43,110,Ready to move,33.4723886,73.0672838
+948,R70015568,750,2,Reputed Builder Wild Wood Park 2,Residential Apartment,10,24,120,Ready to move,19.04310935,73.07430033
+949,V70002694,750,1,Gurukrupa Primus Residences,Residential Apartment,20,16,170,Ready to move,19.04310935,73.07430033
+950,M69981032,1100,2,Reputed Builder Wild Wood Park 2,Residential Apartment,3,39,29,Ready to move,19.0257731,73.05918478
+951,U69979468,1200,1,Reputed Builder Wild Wood Park 2,Residential Apartment,5,12,361,Ready to move,28.39137685,76.88638485
+952,I69966120,1100,1,Reputed Builder Wild Wood Park 2,Residential Apartment,4,35,36.82,Under Construction,19.6197639,74.6599008
+953,L70572424,712,1,Swaraj Homes Mumbai Gruh Nirman CHS,Residential Apartment,20,21,116,Ready to move,19.0257731,73.05918478
+954,Y70538550,1710,1,Reputed Builder Wild Wood Park 2,Residential Apartment,6,44,21,Under Construction,19.0257731,73.05918478
+955,L70538414,500,2,Swaraj Homes Mumbai Gruh Nirman CHS,Residential Apartment,7,1,27,Under Construction,19.0257731,73.05918478
+956,P70538404,500,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,31,36,Under Construction,19.0257731,73.05918478
+957,F70537870,700,1,Reputed Builder Wild Wood Park 2,Residential Apartment,10,25,28.65,Ready to move,19.1969686,73.07473537
+958,O70531728,750,2,Reputed Builder Wild Wood Park 2,Residential Apartment,7,48,23.74,Ready to move,19.1969686,73.07473537
+959,P70530500,750,1,Shiv Residency,Residential Apartment,10,34,52,Ready to move,19.1969686,73.07473537
+960,K70526840,2800,1,Tata New Haven,Residential Apartment,3,30,140,Ready to move,19.1969686,73.07473537
+961,T70524172,650,2,Reputed Builder Wild Wood Park 2,Residential Apartment,22,41,625,Under Construction,19.1969686,73.07473537
+962,N70523972,1082,4,Reputed Builder Wild Wood Park 2,Residential Apartment,18,50,265,Ready to move,28.38431985,76.91223256
+963,K70523382,550,4,Reputed Builder Wild Wood Park 2,Residential Apartment,3,29,130,Ready to move,33.4723886,73.0672838
+964,U70522628,1400,4,Reputed Builder Wild Wood Park 2,Residential Apartment,16,5,106,Ready to move,28.4913452,77.0710259
+965,Y70514370,1150,3,Reputed Builder Wild Wood Park 2,Residential Apartment,5,19,110,Ready to move,44.404906,26.0718655
+966,B70488436,1350,3,Reputed Builder Wild Wood Park 2,Residential Apartment,16,12,361,Under Construction,28.39137685,76.88638485
+967,X70392660,1050,3,Reputed Builder Wild Wood Park 2,Residential Apartment,20,38,36.82,Under Construction,19.0257731,73.05918478
+968,P70392366,712,3,Pioneer Heritage Residency 2,Residential Apartment,20,8,36,Ready to move,19.0257731,73.05918478
+969,D70342490,1082,2,Reputed Builder Wild Wood Park 2,Residential Apartment,20,47,28.65,Ready to move,19.04310935,73.07430033
+970,W70283688,800,2,Reputed Builder Wild Wood Park 2,Residential Apartment,20,22,116,Ready to move,19.04310935,73.07430033
+971,P70240976,1200,3,Reputed Builder Wild Wood Park 2,Residential Apartment,12,33,21,Under Construction,19.0477591,73.07037624
+972,Q70240634,900,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,2,27,Ready to move,19.0257731,73.05918478
+973,D70073038,850,3,Reputed Builder Wild Wood Park 2,Residential Apartment,12,41,39.85,Ready to move,19.0257731,73.05918478
+974,R69905614,650,4,Reputed Builder Wild Wood Park 2,Residential Apartment,15,14,22,Ready to move,19.0257731,73.05918478
+975,Z70534508,620,3,Mateshwari Regency,Residential Apartment,6,46,23,Under Construction,19.0257731,73.05918478
+976,S70533054,590,2,Reputed Builder Wild Wood Park 2,Residential Apartment,23,24,26.5,Ready to move,28.38431985,76.91223256
+977,I70532556,300,4,Reputed Builder Wild Wood Park 2,Residential Apartment,14,3,46,Under Construction,19.0257731,73.05918478
+978,Z70529780,550,3,Reputed Builder Wild Wood Park 2,Residential Apartment,8,39,23.74,Under Construction,28.39137685,76.88638485
+979,D70529078,650,2,Reputed Builder Wild Wood Park 2,Residential Apartment,9,16,50,Under Construction,28.38431985,76.91223256
+980,S70527936,800,2,Reputed Builder Wild Wood Park 2,Residential Apartment,5,31,72,Under Construction,28.4618719,77.05688
+981,K70527802,750,2,Shiv Darshan Shiv Darshan Society,Residential Apartment,21,9,720,Under Construction,33.4723886,73.0672838
+982,M70524464,300,4,Reputed Builder Wild Wood Park 2,Residential Apartment,3,45,61,Under Construction,19.04310935,73.07430033
+983,U70465458,650,3,Reputed Builder Wild Wood Park 2,Residential Apartment,10,25,185,Under Construction,19.04310935,73.07430033
+984,O70464936,850,2,Reputed Builder Wild Wood Park 2,Residential Apartment,10,17,225,Under Construction,19.0257731,73.05918478
+985,K70340986,950,3,Reputed Builder Wild Wood Park 2,Residential Apartment,20,36,170,Under Construction,28.39137685,76.88638485
+986,P70338286,1150,3,Reputed Builder Wild Wood Park 2,Residential Apartment,6,6,111,Under Construction,19.6197639,74.6599008
+987,B70241538,950,2,Reputed Builder Wild Wood Park 2,Residential Apartment,11,20,35,Under Construction,19.0257731,73.05918478
+988,E70071168,1100,2,Reputed Builder Wild Wood Park 2,Residential Apartment,20,37,52,Under Construction,19.0257731,73.05918478
+989,I70528350,500,2,Reputed Builder Wild Wood Park 2,Residential Apartment,6,13,58,Under Construction,19.0257731,73.05918478
+990,R70521584,650,2,Reputed Builder Wild Wood Park 2,Residential Apartment,4,42,62,Under Construction,19.0257731,73.05918478
+991,I70406482,750,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,11,275,Under Construction,19.1969686,73.07473537
+992,Y70394162,950,3,Reputed Builder Wild Wood Park 2,Residential Apartment,15,27,155,Under Construction,19.1969686,73.07473537
+993,I70241564,750,2,Reputed Builder Wild Wood Park 2,Residential Apartment,20,48,137.99999,Under Construction,19.1969686,73.07473537
+994,O70240492,1200,2,Reputed Builder Wild Wood Park 2,Residential Apartment,15,4,34,Under Construction,19.1969686,73.07473537
+995,B70073544,850,2,Reputed Builder Wild Wood Park 2,Residential Apartment,11,35,35,Under Construction,19.1969686,73.07473537
+996,K70467688,350,4,Labdhi Leela,Residential Apartment,3,15,52,Under Construction,19.2083801,72.842227
+997,W70466446,900,4,Reputed Builder Wild Wood Park 2,Residential Apartment,17,30,24,Under Construction,19.4579689,72.8142138
+998,U70339026,1100,3,Reputed Builder Wild Wood Park 2,Residential Apartment,20,23,49,Under Construction,19.0336118,73.01813957
+999,A70467622,350,3,Reputed Builder Wild Wood Park 2,Residential Apartment,3,43,111,Under Construction,19.0411437,73.093186
+1000,K70411062,900,2,Reputed Builder Wild Wood Park 2,Residential Apartment,20,18,35,Under Construction,19.1633281,72.8411995
