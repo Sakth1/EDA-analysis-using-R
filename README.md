@@ -5,3 +5,5 @@
 🔍 Join us as we navigate through the data, employing R's powerful analytical capabilities to uncover hidden insights and trends. From discerning the impact of property size and number of bedrooms on price fluctuations to understanding the influence of locality and construction status, our EDA offers a holistic view of Mumbai's real estate landscape.
 
 💡 Whether you're a data enthusiast, a real estate professional, or an investor seeking valuable market insights, this EDA serves as a crucial resource for understanding the nuances of Mumbai's property market. Stay informed, make data-driven decisions, and embark on your journey through Mumbai's real estate terrain with confidence.
+
+DATASET: https://www.kaggle.com/datasets/sakthimuruganc/mumbai-real-estate-dataset
